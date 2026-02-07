@@ -1,0 +1,2281 @@
+% PBN 2.1
+% EXPORT
+%Content-type: text/x-pbn; charset=ISO-8859-1
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AKQJT6.K3.42.AJT 7.JT5.J9653.6532 4.AQ92.KT87.K987 98532.8764.AQ.Q4"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2H =1= Pass
+2S =2= Pass 3C =3= Pass
+3S =4= Pass 4C =5= Pass
+4H =6= Pass 4S Pass
+Pass Pass
+[Note "1:1-4-4-4, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:11-13 HCP"]
+[Note "4:sets trump"]
+[Note "5:cue"]
+[Note "6:cue"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 1}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 1-4-4-4, 8+ HCP.
+
+North bids 2\S waiting.
+What will you bid now? [BID 3\C]
+You bid 3\C showing 11-13 HCP.
+
+North bids 3\S, setting trump.
+What will you bid now? [BID 4\C]
+You bid 4\C showing a control.
+
+North bids 4\H showing a control.
+What will you bid now? [BID 4\S]
+You bid 4\S.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "2"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "S:A82.AKT43.K53.AT KT53.J75.J987.62 J7.Q98.A64.KQ974 Q964.62.QT2.J853"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1NT =1= Pass
+2C =2= Pass 2S =3= Pass
+2NT =4= Pass 3S =5= Pass
+4H =6= Pass Pass =7= Pass
+[Note "1:5+\Cs, GF"]
+[Note "2:waiting"]
+[Note "3:5332, non-min; start with 1\S with 5min 332 and 8-10"]
+[Note "4:waiting"]
+[Note "5:doubleton"]
+[Note "6:to play"]
+[Note "7:~13- HCP"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 2}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1NT showing 5+\Cs, GF.
+What will you bid now? [BID 2\C]
+You bid 2\C waiting.
+
+North bids 2\S showing 5332, non-min; start with 1\S with 5min 332 and 8-10.
+What will you bid now? [BID 2NT]
+You bid 2NT waiting.
+
+North bids 3\S showing doubleton.
+What will you bid now? [BID 4\H]
+You bid 4\H to play.
+
+North passes showing ~13- HCP.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "3"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:.AKQJ873.AJ85.J5 Q762.T42.94.QT82 A9543.9.KQ76.A94 KJT8.65.T32.K763"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 1H =1= Pass
+2H =2= Pass 3C =3= Pass
+3H =4= Pass 3S =5= Pass
+4D =6= Pass 4S =7= Pass
+5C =8= Pass 5D =9= Pass
+5NT =10= Pass 6H =11= Pass
+Pass Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Hs"]
+[Note "3:4-5\Ds"]
+[Note "4:sets suit"]
+[Note "5:cue"]
+[Note "6:cue"]
+[Note "7:\H keycard"]
+[Note "8:3/0"]
+[Note "9:Q?"]
+[Note "10:Q\H no other K"]
+[Note "11:probably too much to ask to get to 7; N would need to reveal shape more precisely"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 3}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 1\H]
+You bid 1\H showing 5+\Ss, GF.
+
+North bids 2\H showing 6+\Hs.
+What will you bid now? [BID 3\C]
+You bid 3\C showing 4-5\Ds.
+
+North bids 3\H, setting the suit.
+What will you bid now? [BID 3\S]
+You bid 3\S showing a control.
+
+North bids 4\D showing a control.
+What will you bid now? [BID 4\S]
+You bid 4\S asking \H keycard.
+
+North bids 5\C showing 3/0.
+What will you bid now? [BID 5\D]
+You bid 5\D asking Q?.
+
+North bids 5NT showing Q\H no other K.
+What will you bid now? [BID 6\H]
+You bid 6\H showing probably too much to ask to get to 7; N would need to reveal shape more precisely.
+
+[show NS]
+
+Possible that N could bid 3\D instead of 3\H, which sets the suit and initiates cuebids
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "4"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "S:973.A.KJT4.AKQ87 AT.K9742.7.J9432 KQJ8.J863.A832.T 6542.QT5.Q965.65"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2NT =1= Pass
+3C =2= Pass 3H =3= Pass
+3NT =4= Pass Pass Pass
+[Note "1:4-4-4-1, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:11-13 HCP"]
+[Note "4:to play"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 4}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2NT showing 4-4-4-1, 8+ HCP.
+What will you bid now? [BID 3\C]
+You bid 3\C waiting.
+
+North bids 3\H showing 11-13 HCP.
+What will you bid now? [BID 3NT]
+You bid 3NT to play.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "4-1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:973.A.KJT4.AKQ87 AT.K9742.7.J9432 KQJ8.J863.A832.T 6542.QT5.Q965.65"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C 1H X =1= 2H
+3C Pass 3NT Pass
+Pass Pass
+[Note "1:takeout, GF"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 4-1}
+{[show S]
+
+North bids 1\C.
+East bids 1\H.
+What will you bid now? [BID X]
+You double showing takeout, GF.
+
+West bids 2\H.
+North bids 3\C.
+What will you bid now? [BID 3NT]
+You bid 3NT.
+
+[show NS]
+
+Alternative
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "5"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "S:AKQ64.AK753.5.KJ 75.986.8763.T832 83.T4.AK94.AQ954 JT92.QJ2.QJT2.76"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1NT =1= Pass
+2S =2= Pass 3C =3= Pass
+3H =4= Pass 4NT =5= Pass
+6NT Pass Pass Pass
+[Note "1:5+\Cs GF"]
+[Note "2:usually 6+ spades"]
+[Note "3:4-5\Ds"]
+[Note "4:55 majors"]
+[Note "5:no fit, 11-13"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 5}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1NT showing 5+\Cs GF.
+What will you bid now? [BID 2\S]
+You bid 2\S showing usually 6+ spades.
+
+North bids 3\C showing 4-5\Ds.
+What will you bid now? [BID 3\H]
+You bid 3\H showing 55 majors.
+
+North bids 4NT showing no fit, 11-13.
+What will you bid now? [BID 6NT]
+You bid 6NT.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "6"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQJT74.AQ7.97.K5 85.9.QT65.QT7432 K96.KJ6542.AJ84. 32.T83.K32.AJ986"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2D =1= Pass
+2S =2= Pass 3D =3= Pass
+3H =4= Pass 3S =5= Pass
+4C =6= Pass 4D =7= Pass
+4S =8= Pass 5NT =9= Pass
+7H? Pass Pass Pass
+[Note "1:5+\Hs, GF"]
+[Note "2:6+ spades"]
+[Note "3:6+\Hs"]
+[Note "4:set suit"]
+[Note "5:cue bid"]
+[Note "6:cue"]
+[Note "7:cue"]
+[Note "8:keycard"]
+[Note "9:even w/ void"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 6}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\D]
+You bid 2\D showing 5+\Hs, GF.
+
+North bids 2\S showing 6+ spades.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 6+\Hs.
+
+North bids 3\H, setting the suit.
+What will you bid now? [BID 3\S]
+You bid 3\S showing a control.
+
+North bids 4\C showing a control.
+What will you bid now? [BID 4\D]
+You bid 4\D showing a control.
+
+North bids 4\S asking keycard.
+What will you bid now? [BID 5NT]
+You bid 5NT showing even w/ void.
+
+North bids 7\H.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "7"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "S:K852.KQJT763..AK JT4.4.QJT75.Q962 Q73.A5.AK984.754 A96.982.632.JT83"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2C =1= Pass
+2H =2= Pass 2S =3= Pass
+3H =4= Pass 4D =5= Pass
+4S =6= Pass 5D =7= Pass
+6H Pass Pass Pass
+[Note "1:5+\Ds, GF"]
+[Note "2:6+ hearts"]
+[Note "3:5332, non-min"]
+[Note "4:set suit"]
+[Note "5:cue"]
+[Note "6:keycard"]
+[Note "7:2 keycards, no Q\H"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 7}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2\C showing 5+\Ds, GF.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 6+ hearts.
+
+North bids 2\S showing 5332, non-min.
+What will you bid now? [BID 3\H]
+You bid 3\H, setting the suit.
+
+North bids 4\D showing a control.
+What will you bid now? [BID 4\S]
+You bid 4\S asking keycard.
+
+North bids 5\D showing 2 keycards, no Q\H.
+What will you bid now? [BID 6\H]
+You bid 6\H.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "8"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T3.AK98.KQ2.AK65 2.QJ7.T874.98432 AKJ8.6532.J.QJT7 Q97654.T4.A9653."]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 3C =1= Pass
+3D =2= Pass 3S =3= Pass
+4C =4= Pass 4D =5= Pass
+4H =6= Pass Pass Pass
+[Note "1:4-4-1-4, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:11-13 HCP"]
+[Note "4:relay"]
+[Note "5:forced"]
+[Note "6:nat slam try"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 8}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 3\C]
+You bid 3\C showing 4-4-1-4, 8+ HCP.
+
+North bids 3\D waiting.
+What will you bid now? [BID 3\S]
+You bid 3\S showing 11-13 HCP.
+
+North bids 4\C, a relay.
+What will you bid now? [BID 4\D]
+You bid 4\D, forced.
+
+North bids 4\H showing nat slam try.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "9"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "S:Q.AQ.QT7.AKQ9743 KT98.KT73.963.62 A7632.9862.AK.JT J54.J54.J8542.85"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1H =1= Pass
+2C =2= Pass 2D =3= Pass
+3C =4= Pass 3D =5= Pass
+3H =6= Pass 3S =7= Pass
+4D =8= Pass 4NT =9= Pass
+5D =10= Pass 5NT =11= Pass
+6NT Pass Pass Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Cs"]
+[Note "3:4-5\Hs"]
+[Note "4:set suit"]
+[Note "5:cue"]
+[Note "6:cue"]
+[Note "7:cue"]
+[Note "8:keycard"]
+[Note "9:2 keycards, no Q\C"]
+[Note "10:kings?"]
+[Note "11:no K\H, no K\S, yes K\D"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 9}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1\H showing 5+\Ss, GF.
+What will you bid now? [BID 2\C]
+You bid 2\C showing 6+\Cs.
+
+North bids 2\D showing 4-5\Hs.
+What will you bid now? [BID 3\C]
+You bid 3\C, setting the suit.
+
+North bids 3\D showing a control.
+What will you bid now? [BID 3\H]
+You bid 3\H showing a control.
+
+North bids 3\S showing a control.
+What will you bid now? [BID 4\D]
+You bid 4\D asking keycard.
+
+North bids 4NT showing 2 keycards, no Q\C.
+What will you bid now? [BID 5\D]
+You bid 5\D asking kings?.
+
+North bids 5NT showing no K\H, no K\S, yes K\D.
+What will you bid now? [BID 6NT]
+You bid 6NT.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "10"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:87654.K8.AK.AQ93 T32.73.QJ64.KT82 AKQJ.AQ62.7.J764 9.JT954.T98532.5"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 3C =1= Pass
+3D =2= Pass 4C =3= Pass
+4NT =4= Pass 5D =5= Pass
+5H =6= Pass 6S =7= Pass
+Pass =8= Pass
+[Note "1:4-4-1-4, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:16+ HCP"]
+[Note "4:spade keycard"]
+[Note "5:3/0"]
+[Note "6:Q?"]
+[Note "7:Q\S, no other K’s"]
+[Note "8:probably"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 10}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 3\C]
+You bid 3\C showing 4-4-1-4, 8+ HCP.
+
+North bids 3\D waiting.
+What will you bid now? [BID 4\C]
+You bid 4\C showing 16+ HCP.
+
+North bids 4NT asking spade keycard.
+What will you bid now? [BID 5\D]
+You bid 5\D showing 3/0.
+
+North bids 5\H asking Q?.
+What will you bid now? [BID 6\S]
+You bid 6\S showing Q\S, no other K’s.
+
+North passes showing probably.
+
+[show NS]
+
+I’ve never discussed this auction, because the 4\C bid showing 16+ HCP is exceedingly rare. It stands to reason that the only permissible bids after that are looking for slams, so they should be keycard sequences for the usual mini-Roman relay
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "11"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "S:9.Q6.AQ743.AKT84 5432.T9873.T9.93 KJ87.AK54.2.J762 AQT6.J2.KJ865.Q5"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 3C =1= Pass
+3D =2= Pass 3S =3= Pass
+4C =4= Pass 4D =5= Pass
+4H =6= Pass Pass Pass
+[Note "1:4-4-1-4, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:11-13 HCP"]
+[Note "4:relay"]
+[Note "5:forced"]
+[Note "6:nat slam try"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 11}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 3\C showing 4-4-1-4, 8+ HCP.
+What will you bid now? [BID 3\D]
+You bid 3\D waiting.
+
+North bids 3\S showing 11-13 HCP.
+What will you bid now? [BID 4\C]
+You bid 4\C, a relay.
+
+North bids 4\D, forced.
+What will you bid now? [BID 4\H]
+You bid 4\H showing nat slam try.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "12"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:K6.KJ53.QJ753.AQ Q87.94.KT94.8652 AJT543.AT72.8.KT 92.Q86.A62.J9743"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 1H =1= Pass
+1S =2= Pass 2H =3= Pass
+2S =4= Pass 3H =5= Pass
+3S =6= Pass 4C =7= Pass
+4H =8= Pass 4S =9= Pass
+Pass Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:waiting"]
+[Note "3:6+\Ss"]
+[Note "4:set suit"]
+[Note "5:4\Hs - no cuebids below 3 of suit"]
+[Note "6:start cuebidding"]
+[Note "7:cue"]
+[Note "8:cue"]
+[Note "9:maybe?"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 12}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 1\H]
+You bid 1\H showing 5+\Ss, GF.
+
+North bids 1\S waiting.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 6+\Ss.
+
+North bids 2\S, setting the suit.
+What will you bid now? [BID 3\H]
+You bid 3\H showing 4\Hs - no cuebids below 3 of suit.
+
+North bids 3\S, starting cuebidding.
+What will you bid now? [BID 4\C]
+You bid 4\C showing a control.
+
+North bids 4\H showing a control.
+What will you bid now? [BID 4\S]
+You bid 4\S asking maybe?.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "13"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "S:AKQ2.532.A87.A76 5.9764.Q93.T8542 T943.AQT8.KT42.9 J876.KJ.J65.KQJ3"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2NT =1= Pass
+3C =2= Pass 3D =3= Pass
+4D =4= Pass 4H =5= Pass
+4S =6= Pass Pass Pass
+[Note "1:4-4-4-1, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:8-10 HCP"]
+[Note "4:relay"]
+[Note "5:forced"]
+[Note "6:to play"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 13}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2NT showing 4-4-4-1, 8+ HCP.
+What will you bid now? [BID 3\C]
+You bid 3\C waiting.
+
+North bids 3\D showing 8-10 HCP.
+What will you bid now? [BID 4\D]
+You bid 4\D, a relay.
+
+North bids 4\H, forced.
+What will you bid now? [BID 4\S]
+You bid 4\S to play.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "14"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:6.AQ8.KT832.AQJ5 Q7.KJ7642.94.K74 AKT9.5.AQ76.9863 J85432.T93.J5.T2"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C 1H 2H =1= Pass
+2NT =2= Pass 3D =3= Pass
+3NT =4= Pass Pass Pass
+[Note "1:4-1-4-4, GF"]
+[Note "2:ask"]
+[Note "3:11-13 HCP"]
+[Note "4:to play; maybe could sniff out 6\D"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 14}
+{[show S]
+
+North bids 1\C.
+East bids 1\H.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 4-1-4-4, GF.
+
+North bids 2NT, asking.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 11-13 HCP.
+
+North bids 3NT to play; maybe could sniff out 6\D.
+
+[show NS]
+
+I’d expect W to raise to 3\H instead of passing, in which case I don’t think N has an asking bid available. X would be penalty, 3\S would set the suit, 3NT to play. 4-level bids sound like regular 3-suiter relays. Without interference, S would start with 3\D to show 4-1-4-4 shape. Interestingly, interference helps save space here.
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "15"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "S:K82.AK85.AKQT4.6 JT9754.T6.9.J942 6.QJ72.J762.KQT3 AQ3.943.853.A875"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2H =1= Pass
+2S =2= Pass 2NT =3= Pass
+4D relay to 4H
+Pass 4H Pass Pass
+Pass
+[Note "1:1-4-4-4, GF"]
+[Note "2:waiting"]
+[Note "3:8-10 HCP"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 15}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2\H showing 1-4-4-4, GF.
+What will you bid now? [BID 2\S]
+You bid 2\S waiting.
+
+North bids 2NT showing 8-10 HCP.
+What will you bid now? [BID 4\D]
+You bid 4\D.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "16"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:A.AK.963.AQJ9764 J9873.94.T8.KT52 QT654.J62.AKQJ5. K2.QT8753.742.83"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 1H =1= Pass
+2C =2= Pass 3C =3= Pass
+3NT =4= Pass 4D =5= Pass
+4NT/5D =6= Pass Pass Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Cs"]
+[Note "3:4-5\Ds"]
+[Note "4:to play"]
+[Note "5:5\Ds, 5\S, slammish"]
+[Note "6:to play"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 16}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 1\H]
+You bid 1\H showing 5+\Ss, GF.
+
+North bids 2\C showing 6+\Cs.
+What will you bid now? [BID 3\C]
+You bid 3\C showing 4-5\Ds.
+
+North bids 3NT to play.
+What will you bid now? [BID 4\D]
+You bid 4\D showing 5\Ds, 5\S, slammish.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "17"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "S:AKJT73.AKT954..T Q84.J32.Q76.J942 652.Q8.A95.AQ863 9.76.KJT8432.K75"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1NT =1= Pass
+2S =2= Pass 3H =3= Pass
+3S =4= Pass cue bids
+and keycard to come,
+landing in 6S or
+7S Pass Pass Pass
+[Note "1:5+\Cs, GF"]
+[Note "2:6+\Ss"]
+[Note "3:3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape"]
+[Note "4:set suit"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 17}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1NT showing 5+\Cs, GF.
+What will you bid now? [BID 2\S]
+You bid 2\S showing 6+\Ss.
+
+North bids 3\H showing 3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape.
+What will you bid now? [BID 3\S]
+You bid 3\S, setting the suit.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "18"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ8432.AJ2.A32.A JT9.763.KT54.953 A.Q954.QJ98.KQ82 765.KT8.76.JT764"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2H =1= Pass
+2S =2= Pass 3D =3= Pass
+4C =4= Pass 4D =5= Pass
+4NT =6= Pass P? =7= Pass
+Pass Pass
+[Note "1:1-4-4-4, 8+ HCP - I’d vote for this even with the stiff A\S"]
+[Note "2:waiting"]
+[Note "3:14-15 HCP"]
+[Note "4:relay"]
+[Note "5:forced"]
+[Note "6:quantitative invite"]
+[Note "7:4\C and beyond is a bit speculative here, not sure how it would go at the table"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 18}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 1-4-4-4, 8+ HCP - I’d vote for this even with the stiff A\S.
+
+North bids 2\S waiting.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 14-15 HCP.
+
+North bids 4\C, a relay.
+What will you bid now? [BID 4\D]
+You bid 4\D, forced.
+
+North bids 4NT showing quantitative invite.
+What will you bid now? [BID pass]
+You pass showing 4\C and beyond is a bit speculative here, not sure how it would go at the table.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "19"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "S:K873.KQ2.AK42.Q4 42.J8.Q976.T8753 AJ65.A543.3.AJ92 QT9.T976.JT85.K6"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 3C =1= Pass
+3D =2= Pass 3NT =3= Pass
+4NT? =4= Pass etc. Pass
+Pass Pass
+[Note "1:4-4-1-4, 8+ HCP"]
+[Note "2:waiting"]
+[Note "3:14-15 HCP"]
+[Note "4:spade keycard"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 19}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 3\C showing 4-4-1-4, 8+ HCP.
+What will you bid now? [BID 3\D]
+You bid 3\D waiting.
+
+North bids 3NT showing 14-15 HCP.
+What will you bid now? [BID 4NT]
+You bid 4NT asking spade keycard.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "20"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:9.AQ54.A9.AKJ987 KT75.972.JT63.Q2 AQJ863.86.KQ75.5 42.KJT3.842.T643"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 1H =1= Pass
+2C =2= Pass 2H =3= Pass
+2NT =4= Pass 3D =5= Pass
+3NT Pass Pass Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Cs"]
+[Note "3:6+\Ss"]
+[Note "4:natural-ish"]
+[Note "5:4\Ds"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 20}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 1\H]
+You bid 1\H showing 5+\Ss, GF.
+
+North bids 2\C showing 6+\Cs.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 6+\Ss.
+
+North bids 2NT showing natural-ish.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 4\Ds.
+
+North bids 3NT.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "21"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "S:AQ94.AQJ76.QJ.K7 53.982.A.AQ96432 87.KT53.7643.J85 KJT62.4.KT9852.T"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C 2C Pass =1= 2D
+X =2= 3C 3H 3S
+4H Pass Pass Pass
+[Note "1:not GF"]
+[Note "2:takeout"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 21}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+West bids 2\C.
+North passes showing not GF.
+East bids 2\D.
+What will you bid now? [BID X]
+You double showing takeout.
+
+West bids 3\C.
+North bids 3\H.
+East bids 3\S.
+What will you bid now? [BID 4\H]
+You bid 4\H.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "22"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:AQ.AKJ87.AQ86.87 987.T963.43.Q532 KJT2.Q2.KJT97.AJ 6543.54.52.KT964"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2C =1= Pass
+2D =2= Pass 2H =3= Pass
+3D =4= Pass 3S =5= Pass
+4D =6= Pass 4H =7= Pass
+4NT =8= Pass 5C =9= Pass
+5H =10= Pass 6C =11= Pass
+6D =12= Pass 6NT? Pass
+Pass Pass
+[Note "1:5+\Ds, GF"]
+[Note "2:waiting"]
+[Note "3:4\Ss"]
+[Note "4:set suit"]
+[Note "5:cue"]
+[Note "6:denies club control"]
+[Note "7:\D keycard"]
+[Note "8:3/0"]
+[Note "9:Q?"]
+[Note "10:Q\D, K\H"]
+[Note "11:ask for K"]
+[Note "12:nope"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 22}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\C]
+You bid 2\C showing 5+\Ds, GF.
+
+North bids 2\D waiting.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 4\Ss.
+
+North bids 3\D, setting the suit.
+What will you bid now? [BID 3\S]
+You bid 3\S showing a control.
+
+North bids 4\D showing denies club control.
+What will you bid now? [BID 4\H]
+You bid 4\H asking \D keycard.
+
+North bids 4NT showing 3/0.
+What will you bid now? [BID 5\C]
+You bid 5\C asking Q?.
+
+North bids 5\H showing Q\D, K\H.
+What will you bid now? [BID 6\C]
+You bid 6\C, asking for K.
+
+North bids 6\D showing nope.
+What will you bid now? [BID 6NT]
+You bid 6NT.
+
+[show NS]
+
+Finding 7 may be too hard; requires knowing about Q\S. Maybe N should take control of auction with keycard 4\H instead of bidding 4\D.
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "23"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "S:AT5.J94.AKJT.A98 964.T5.976.QJT74 KQJ3.AKQ6.Q842.5 872.8732.53.K632"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2NT =1= Pass
+3C =2= Pass 3NT =3= Pass
+6NT =4= Pass Pass Pass
+[Note "1:4-4-4-1, 8+"]
+[Note "2:waiting"]
+[Note "3:16+ HCP"]
+[Note "4:to play, expecting 16 HCP"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 23}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2NT showing 4-4-4-1, 8+.
+What will you bid now? [BID 3\C]
+You bid 3\C waiting.
+
+North bids 3NT showing 16+ HCP.
+What will you bid now? [BID 6NT]
+You bid 6NT to play, expecting 16 HCP.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "24"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:AK7532.AT4.Q72.Q JT84.QJ6.54.JT82 .9753.KJT93.A943 Q96.K82.A86.K765"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2C =1= Pass
+2S =2= Pass 3D =3= Pass
+3NT? Pass Pass Pass
+[Note "1:5+\Ds, GF"]
+[Note "2:6+\Ss"]
+[Note "3:4\Hs"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 24}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\C]
+You bid 2\C showing 5+\Ds, GF.
+
+North bids 2\S showing 6+\Ss.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 4\Hs.
+
+North bids 3NT.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "25"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "S:Q96.AT7.AKQ954.5 72.K982.T83.J982 KJT.QJ643..AQT74 A8543.5.J762.K63"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2D =1= Pass
+2H =2= Pass 3C =3= Pass
+4H =4= Pass Pass Pass
+[Note "1:5+\Hs, GF"]
+[Note "2:waiting"]
+[Note "3:4-5 card minor"]
+[Note "4:to play; probably too light for 3\H and cuebidding"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 25}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2\D showing 5+\Hs, GF.
+What will you bid now? [BID 2\H]
+You bid 2\H waiting.
+
+North bids 3\C showing 4-5 card minor.
+What will you bid now? [BID 4\H]
+You bid 4\H to play; probably too light for 3\H and cuebidding.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "26"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:QT.AQ85.AQ865.K3 65.K96432.T4.976 K732.T.KJ73.AJ42 AJ984.J7.92.QT85"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 3D =1= Pass
+3H =2= Pass 3S =3= Pass
+4C =4= Pass 4D =5= Pass
+5D =6= Pass Pass Pass
+[Note "1:4-1-4-4, 8+"]
+[Note "2:waiting"]
+[Note "3:11-13 HCP"]
+[Note "4:relay"]
+[Note "5:forced"]
+[Note "6:slam invite"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 26}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 4-1-4-4, 8+.
+
+North bids 3\H waiting.
+What will you bid now? [BID 3\S]
+You bid 3\S showing 11-13 HCP.
+
+North bids 4\C, a relay.
+What will you bid now? [BID 4\D]
+You bid 4\D, forced.
+
+North bids 5\D showing slam invite.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "27"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "S:J63.AKJ8.3.AK753 AT97.Q32.AJ9.T42 KQ85.9754.QT87.J 42.T6.K6542.Q986"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2NT =1= Pass
+3C =2= Pass 3D =3= Pass
+relay to 4H Pass
+Pass Pass
+[Note "1:4-4-4-1, 8+"]
+[Note "2:waiting"]
+[Note "3:8-10 HCP"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 27}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2NT showing 4-4-4-1, 8+.
+What will you bid now? [BID 3\C]
+You bid 3\C waiting.
+
+North bids 3\D showing 8-10 HCP.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "28"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:QJT4.AKQJ.J9.AQ3 K9863.T32.Q642.2 A.9654.K853.J975 752.87.AT7.KT864"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2H =1= Pass
+2S =2= Pass 2NT =3= Pass
+either 3NT or relay
+to 4H Pass Pass
+Pass
+[Note "1:1-4-4-4, 8+; don’t lie about shape I guess"]
+[Note "2:waiting"]
+[Note "3:8-10 HCP"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 28}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 1-4-4-4, 8+; don’t lie about shape I guess.
+
+North bids 2\S waiting.
+What will you bid now? [BID 2NT]
+You bid 2NT showing 8-10 HCP.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "29"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "S:AQT3.K2.AKQ652.2 96.J54.JT987.A64 K875.AQT7.4.QJT5 J42.9863.3.K9873"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 3C =1= Pass
+3D =2= Pass 3S =3= Pass
+etc Pass Pass Pass
+[Note "1:4-4-1-4, 8+"]
+[Note "2:waiting"]
+[Note "3:11-13"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 29}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 3\C showing 4-4-1-4, 8+.
+What will you bid now? [BID 3\D]
+You bid 3\D waiting.
+
+North bids 3\S showing 11-13.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "30"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:T64.AKJ.43.AKQ53 J.QT9832.AQ9.972 AKQ52..KJT6.T864 9873.7654.8752.J"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C 2H X =1= 4H
+X =2= Pass 4S? Pass
+Pass Pass
+[Note "1:takeout, GF"]
+[Note "2:forcing pass situation"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 30}
+{[show S]
+
+North bids 1\C.
+East bids 2\H.
+What will you bid now? [BID X]
+You double showing takeout, GF.
+
+West bids 4\H.
+North doubles showing forcing pass situation.
+What will you bid now? [BID 4\S]
+You bid 4\S.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "30-1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "S:T64.AKJ.43.AKQ53 J.QT9832.AQ9.972 AKQ52..KJT6.T864 9873.7654.8752.J"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1H =1= Pass
+1S =2= Pass 2C =3= Pass
+2S =4= Pass 3C =5= Pass
+3S Pass 4D =6= Pass
+4NT etc Pass Pass
+Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:waiting"]
+[Note "3:4-5\Ds"]
+[Note "4:sets suit"]
+[Note "5:likely a fragment 5-1-4-3 or 5-0-4-4"]
+[Note "6:cue"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 30-1}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1\H showing 5+\Ss, GF.
+What will you bid now? [BID 1\S]
+You bid 1\S waiting.
+
+North bids 2\C showing 4-5\Ds.
+What will you bid now? [BID 2\S]
+You bid 2\S, setting the suit.
+
+North bids 3\C showing likely a fragment 5-1-4-3 or 5-0-4-4.
+What will you bid now? [BID 3\S]
+You bid 3\S.
+
+North bids 4\D showing a control.
+What will you bid now? [BID 4NT]
+You bid 4NT.
+
+[show NS]
+
+Without interference
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "31"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:KQ752.A.53.AK965 A986.T5.T974.Q42 .QJ87432.AKQ.J87 JT43.K96.J862.T3"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2D =1= Pass
+2H =2= Pass 3D =3= Pass
+3S =4= Pass 3NT/4H Pass
+Pass Pass
+[Note "1:5+\Hs, GF"]
+[Note "2:waiting, no 6-card suit"]
+[Note "3:6+\Hs"]
+[Note "4:5\Ss, probably skeptical of 3NT and 4\H"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 31}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\D]
+You bid 2\D showing 5+\Hs, GF.
+
+North bids 2\H showing waiting, no 6-card suit.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 6+\Hs.
+
+North bids 3\S showing 5\Ss, probably skeptical of 3NT and 4\H.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "32"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "S:AK82.94.KQ863.A6 T64.QJ5.T4.T9742 3.A872.A752.KQJ8 QJ975.KT63.J9.53"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2H =1= Pass
+2S =2= Pass 3D =3= Pass
+3NT =4= Pass Pass Pass
+[Note "1:1-4-4-4, 8+"]
+[Note "2:waiting"]
+[Note "3:14-15"]
+[Note "4:or could relay to 5\D"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 32}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2\H showing 1-4-4-4, 8+.
+What will you bid now? [BID 2\S]
+You bid 2\S waiting.
+
+North bids 3\D showing 14-15.
+What will you bid now? [BID 3NT]
+You bid 3NT showing or could relay to 5\D.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "33"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:KT.K83.AQ53.KQT5 A9753.64.76.6432 J42.AQ95.J9.A987 Q86.JT72.KT842.J"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 1S =1= Pass
+1NT =2= Pass 2NT =3= Pass
+3C =4= Pass 3D =5= Pass
+3NT Pass Pass Pass
+[Note "1:balanced, no 5-card suit, unless 8-10 and 5-card minor"]
+[Note "2:stayman-like"]
+[Note "3:4\Cs + another 4-card suit, 11-13 or 16+"]
+[Note "4:waiting"]
+[Note "5:4\Hs"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 33}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 1\S]
+You bid 1\S showing balanced, no 5-card suit, unless 8-10 and 5-card minor.
+
+North bids 1NT showing stayman-like.
+What will you bid now? [BID 2NT]
+You bid 2NT showing 4\Cs + another 4-card suit, 11-13 or 16+.
+
+North bids 3\C waiting.
+What will you bid now? [BID 3\D]
+You bid 3\D showing 4\Hs.
+
+North bids 3NT.
+
+[show NS]
+
+would probably just raise to 3NT instead of 3\C, but I wanted to show the full system. These 1\S response hands should be coming up much more frequently…
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "34"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "S:AJ52.KQJT4.A.765 QT73..KQT9765.K2 K9.A8765.843.AJ8 864.932.J2.QT943"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C 3D? 3S =1= Pass
+4H Pass Pass Pass
+[Note "1:5+\Hs, GF"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 34}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+West bids 3\D.
+North bids 3\S showing 5+\Hs, GF.
+What will you bid now? [BID 4\H]
+You bid 4\H.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "34-1"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "N:AJ52.KQJT4.A.765 QT73..KQT9765.K2 K9.A8765.843.AJ8 864.932.J2.QT943"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2D =1= Pass
+2H =2= Pass 2S =3= Pass
+4H Pass Pass Pass
+[Note "1:5+\Hs, GF"]
+[Note "2:waiting"]
+[Note "3:5332"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 34-1}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\D]
+You bid 2\D showing 5+\Hs, GF.
+
+North bids 2\H waiting.
+What will you bid now? [BID 2\S]
+You bid 2\S showing 5332.
+
+North bids 4\H.
+
+[show NS]
+
+No interference
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "35"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "S:A8.KQJ52.9.AQ753 J963.87.543.KT92 KQT75.64.AQJ87.4 42.AT93.KT62.J86"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1H =1= Pass
+1S =2= Pass 2C =3= Pass
+2H =4= Pass 3D =5= Pass
+3NT Pass Pass Pass
+[Note "1:5+\Ss, GF"]
+[Note "2:waiting"]
+[Note "3:4-5\Ds"]
+[Note "4:5\Hs"]
+[Note "5:5\Ds"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 35}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1\H showing 5+\Ss, GF.
+What will you bid now? [BID 1\S]
+You bid 1\S waiting.
+
+North bids 2\C showing 4-5\Ds.
+What will you bid now? [BID 2\H]
+You bid 2\H showing 5\Hs.
+
+North bids 3\D showing 5\Ds.
+What will you bid now? [BID 3NT]
+You bid 3NT.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "36"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "N:Q82.AKQT987.A.AQ 963.63.J654.8432 AKJT.4.K97.JT965 754.J52.QT832.K7"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 1NT =1= Pass
+2H =2= Pass 2S =3= Pass
+3H =4= Pass 3S =5= Pass
+4C =6= Pass 4D =7= Pass
+4S =8= Pass 4NT =9= Pass
+5S =10= Pass 5NT =11= Pass
+7NT =12= Pass Pass Pass
+[Note "1:5+\Cs, GF"]
+[Note "2:6+\Hs"]
+[Note "3:ostensibly 5332, but I think the assumption should be that N would go slow with 4\Ss. This hand is tough if S bids 3\H, showing 4\Ss. Rule of thumb: don’t transfer over partner’s declared suit."]
+[Note "4:sets suit"]
+[Note "5:cue"]
+[Note "6:cue"]
+[Note "7:cue"]
+[Note "8:\H keycard"]
+[Note "9:1/4"]
+[Note "10:K’s?"]
+[Note "11:K\S"]
+[Note "12:since the K\D is known"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 36}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 1NT]
+You bid 1NT showing 5+\Cs, GF.
+
+North bids 2\H showing 6+\Hs.
+What will you bid now? [BID 2\S]
+You bid 2\S showing ostensibly 5332, but I think the assumption should be that N would go slow with 4\Ss. This hand is tough if S bids 3\H, showing 4\Ss. Rule of thumb: don’t transfer over partner’s declared suit..
+
+North bids 3\H, setting the suit.
+What will you bid now? [BID 3\S]
+You bid 3\S showing a control.
+
+North bids 4\C showing a control.
+What will you bid now? [BID 4\D]
+You bid 4\D showing a control.
+
+North bids 4\S asking \H keycard.
+What will you bid now? [BID 4NT]
+You bid 4NT showing 1/4.
+
+North bids 5\S asking K’s?.
+What will you bid now? [BID 5NT]
+You bid 5NT showing K\S.
+
+North bids 7NT showing since the K\D is known.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "37"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "NS"]
+[Deal "S:AKJT974.Q62.A3.J Q53.T3.KT75.T762 86.AK754.Q64.AQ4 2.J98.J982.K9853"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 2D =1= Pass
+2S =2= Pass 3H =3= Pass
+3S =4= Pass 4C Pass
+4D Pass 4H Pass
+4NT =5= Pass 5H Pass
+6S Pass Pass Pass
+[Note "1:5+\Hs, GF"]
+[Note "2:6+\Ss; I think the suit is too good for agreeing to play H"]
+[Note "3:spade support; only other option would be 3\S -> balanced hand"]
+[Note "4:sets suit"]
+[Note "5:keycard"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 37}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 2\D showing 5+\Hs, GF.
+What will you bid now? [BID 2\S]
+You bid 2\S showing 6+\Ss; I think the suit is too good for agreeing to play H.
+
+North bids 3\H showing spade support; only other option would be 3\S -> balanced hand.
+What will you bid now? [BID 3\S]
+You bid 3\S, setting the suit.
+
+North bids 4\C.
+What will you bid now? [BID 4\D]
+You bid 4\D.
+
+North bids 4\H.
+What will you bid now? [BID 4NT]
+You bid 4NT asking keycard.
+
+North bids 5\H.
+What will you bid now? [BID 6\S]
+You bid 6\S.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "38"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "EW"]
+[Deal "N:KJ63.AKT865.AJ.5 742.Q3.T4.Q87432 Q9.97.K8753.AKJ6 AT85.J42.Q962.T9"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C Pass 2C =1= Pass
+2H =2= Pass 2NT =3= Pass
+3NT Pass Pass Pass
+[Note "1:5+\Ds, GF"]
+[Note "2:6+\Hs"]
+[Note "3:4-5\Cs"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 38}
+{[show S]
+
+North bids 1\C.
+What will you bid now? [BID 2\C]
+You bid 2\C showing 5+\Ds, GF.
+
+North bids 2\H showing 6+\Hs.
+What will you bid now? [BID 2NT]
+You bid 2NT showing 4-5\Cs.
+
+North bids 3NT.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "39"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "All"]
+[Deal "S:8.AQ43.KJ87.AQT9 96542.T985.A63.7 AQJT..QT95.KJ843 K73.KJ762.42.652"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "S"]
+1C Pass 1NT =1= Pass
+2C =2= Pass 2H =3= Pass
+3C =4= Pass 3H =5= Pass
+3S =6= Pass 4C =7= Pass
+4D =8= Pass 5NT =9= Pass
+6C Pass Pass Pass
+[Note "1:5+\Cs, GF"]
+[Note "2:waiting"]
+[Note "3:4\Ss"]
+[Note "4:sets suit"]
+[Note "5:cue"]
+[Note "6:cue"]
+[Note "7:extras, temporizing"]
+[Note "8:keycard for \C"]
+[Note "9:even with void"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 39}
+{[show S]
+
+What will you bid now? [BID 1\C]
+You bid 1\C.
+
+North bids 1NT showing 5+\Cs, GF.
+What will you bid now? [BID 2\C]
+You bid 2\C waiting.
+
+North bids 2\H showing 4\Ss.
+What will you bid now? [BID 3\C]
+You bid 3\C, setting the suit.
+
+North bids 3\H showing a control.
+What will you bid now? [BID 3\S]
+You bid 3\S showing a control.
+
+North bids 4\C showing extras, temporizing.
+What will you bid now? [BID 4\D]
+You bid 4\D asking keycard for \C.
+
+North bids 5NT showing even with void.
+What will you bid now? [BID 6\C]
+You bid 6\C.
+
+[show NS]
+
+}
+
+[Event "Precision 1C - Mixed"]
+[Site ""]
+[Date "2023.03.20"]
+[Board "40"]
+[West ""]
+[North ""]
+[East ""]
+[South ""]
+[Dealer "N"]
+[Vulnerable "None"]
+[Deal "N:QT98.AK3.K4.AQJT 63.QT952.AJ986.2 AKJ2.J864.T.K975 754.7.Q7532.8643"]
+[Scoring ""]
+[Declarer ""]
+[Contract ""]
+[Result ""]
+[Auction "N"]
+1C 1H X =1= Pass
+1S 2D 2S 4D
+4S Pass 4NT =2= etc.
+Pass Pass Pass
+[Note "1:GF, takeout"]
+[Note "2:keycard"]
+[Student "S"]
+[BCFlags "1f"]
+[Category "Precision"]
+[Difficulty "intermediate"]
+[SkillPath "precision/1c_mixed"]
+{Precision 1C 40}
+{[show S]
+
+North bids 1\C.
+East bids 1\H.
+What will you bid now? [BID X]
+You double showing GF, takeout.
+
+North bids 1\S.
+East bids 2\D.
+What will you bid now? [BID 2\S]
+You bid 2\S.
+
+West bids 4\D.
+North bids 4\S.
+What will you bid now? [BID 4NT]
+You bid 4NT asking keycard.
+
+[show NS]
+
+}
+

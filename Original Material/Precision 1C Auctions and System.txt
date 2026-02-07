@@ -6,7 +6,7 @@ Assume silent opps unless otherwise stated [opp bids in square brackets]
 2)      1C – 1NT (5+ C, GF) – 2C (waiting) – 2S (5332, non-min; start with 1S with 5min 332 and 8-10) – 2NT (waiting) – 3S (doubleton) – 4H (to play) – P (~13- HCP)
 3)      1C – 1H (5+ S, GF) – 2H (6+ H) – 3C (4-5 D) – 3H (sets suit) – 3S (cue) – 4D (cue) – 4S (H keycard) – 5C (3/0) – 5D (Q?) – 5NT (QH no other K) – 6H (probably too much to ask to get to 7; N would need to reveal shape more precisely)
 *Note: Possible that N could bid 3D instead of 3H, which sets the suit and initiates cuebids
-4)      1C – 2NT (4-4-4-1, 8+ HCP) – 3C (waiting) – 3H (11-13 HCP) – 3NT (to play) or (less likely) 4D (relay) – 4H (forced) – 5D (to play)
+4)      1C – 2NT (4-4-4-1, 8+ HCP) – 3C (waiting) – 3H (11-13 HCP) – 3NT (to play)
 Alternative: 1C – [1H] – X (takeout, GF) – [2H] – 3C – [P] – 3NT
 5)      1C – 1NT (5+ C GF) – 2S (usually 6+ spades) – 3C (4-5 D) – 3H (55 majors) – 4NT (no fit, 11-13) – 6NT
 6)      1C – 2D (5+ H, GF) – 2S (6+ spades) – 3D (6+ H) – 3H (set suit) – 3S (cue bid) – 4C (cue) – 4D (cue) – 4S (keycard) – 5NT (even w/ void) – 7H?
@@ -21,7 +21,7 @@ Alternative: 1C – [1H] – X (takeout, GF) – [2H] – 3C – [P] – 3NT
 14) 1C - [1H] - 2H (4-1-4-4, GF) - [P] - 2NT (ask) - 3D (11-13 HCP) - 3NT (to play; maybe could sniff out 6D)
 Note: I’d expect W to raise to 3H instead of passing, in which case I don’t think N has an asking bid available. X would be penalty, 3S would set the suit, 3NT to play. 4-level bids sound like regular 3-suiter relays.
 Without interference, S would start with 3D to show 4-1-4-4 shape. Interestingly, interference helps save space here.
-15) 1C - 2H (1-4-4-4, GF) - 2S (waiting) - 2NT (8-10 HCP) - relay to 4H or investigate slam, I guess, maybe bidding 3D/H to set suit and ask for cuebids
+15) 1C - 2H (1-4-4-4, GF) - 2S (waiting) - 2NT (8-10 HCP) - 4D relay to 4H - 4H
 16) 1C - 1H (5+ S, GF) - 2C (6+ C) - 3C (4-5 D) - 3NT (to play) - 4D (5 D, 5S, slammish) - 4NT/5D (to play)
 17) 1C - 1NT (5+ C, GF) - 2S (6+ S) - 3H (3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape) - 3S (set suit) - cue bids and keycard to come, landing in 6S or 7S
 18) 1C - 2H (1-4-4-4, 8+ HCP – I’d vote for this even with the stiff AS) – 2S (waiting) – 3D (14-15 HCP) – 4C (relay) – 4D (forced) – 4NT (quantitative invite) – P? (4C and beyond is a bit speculative here, not sure how it would go at the table)

@@ -112,17 +112,11 @@ Pass Pass
 [Auction "N"]
 1C Pass 2NT =1= Pass
 3C =2= Pass 3H =3= Pass
-3NT =4= or =5= 4D =6= Pass
-4H =7= Pass 5D =8= Pass
-Pass Pass
+3NT =4= Pass Pass Pass
 [Note "1:4-4-4-1, 8+ HCP"]
 [Note "2:waiting"]
 [Note "3:11-13 HCP"]
 [Note "4:to play"]
-[Note "5:less likely"]
-[Note "6:relay"]
-[Note "7:forced"]
-[Note "8:to play"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -455,11 +449,8 @@ Pass Pass
 [Auction "N"]
 1C Pass 2H =1= Pass
 2S =2= Pass 2NT =3= Pass
-relay to 4H or
-investigate slam, I guess,
-maybe bidding 3D/H to
-set suit and ask
-for cuebids Pass Pass
+4D relay to 4H
+Pass 4H Pass Pass
 Pass
 [Note "1:1-4-4-4, GF"]
 [Note "2:waiting"]
