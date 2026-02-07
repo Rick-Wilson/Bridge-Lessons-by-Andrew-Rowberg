@@ -178,8 +178,18 @@ def expand_auction(raw_auction):
             output.append(elem)
             prev_was_bracketed = False
 
-    # Ensure auction ends with three Passes
-    while len(output) < 3 or output[-3:] != ['Pass', 'Pass', 'Pass']:
+    # Normalize P to Pass
+    for i, elem in enumerate(output):
+        if elem == 'P':
+            output[i] = 'Pass'
+        elif elem.startswith('P ') or elem.startswith('P('):
+            output[i] = 'Pass' + elem[1:]
+
+    # Ensure auction ends with three Passes (ignore annotations)
+    def is_pass(bid):
+        return bid.split('(')[0].strip() == 'Pass'
+
+    while len(output) < 3 or not all(is_pass(x) for x in output[-3:]):
         output.append('Pass')
 
     return ' '.join(output)
@@ -258,6 +268,21 @@ def extract_bid_notes(auction):
     return result.strip(), bid_notes_str
 
 
+def add_suit_symbols(text):
+    """Add PBN suit symbol escapes to suit abbreviations in note text."""
+    # Count + space + suit letter: "5+ C" -> "5+\Cs", "4 S" -> "4\Ss"
+    text = re.sub(r'(\d[\d+-]*) ([CDHS])\b', r'\1\\\2s', text)
+    # Card rank + suit letter: "QH" -> "Q\H", "KS" -> "K\S"
+    text = re.sub(r'([KQAJT])([CDHS])\b', r'\1\\\2', text)
+    # Bid reference (digit + suit, no space): "1S" -> "1\S", "3D" -> "3\D"
+    text = re.sub(r'(\d)([CDHS])\b', r'\1\\\2', text)
+    # Suit before "keycard": "H keycard" -> "\H keycard"
+    text = re.sub(r'\b([CDHS]) (keycard)', r'\\\1 \2', text)
+    # "for" + suit: "keycard for C" -> "keycard for \C"
+    text = re.sub(r'(for )([CDHS])\b', r'\1\\\2', text)
+    return text
+
+
 def stage3(csv_in_path, csv_out_path):
     """Read stage 2 CSV, extract bid notes into flags, write stage 3 CSV."""
     with open(csv_in_path, 'r') as f:
@@ -267,8 +292,10 @@ def stage3(csv_in_path, csv_out_path):
     output_rows = []
     for row in rows:
         cleaned_auction, bid_notes = extract_bid_notes(row['auction'])
+        bid_notes = add_suit_symbols(bid_notes)
+        notes = add_suit_symbols(row['notes'])
         output_rows.append((row['deal'], cleaned_auction, bid_notes,
-                            row['notes']))
+                            notes))
 
     with open(csv_out_path, 'w', newline='') as f:
         writer = csv.writer(f)

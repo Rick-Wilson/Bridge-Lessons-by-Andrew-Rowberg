@@ -49,11 +49,10 @@ Pass Pass
 1C Pass 1NT =1= Pass
 2C =2= Pass 2S =3= Pass
 2NT =4= Pass 3S =5= Pass
-4H =6= Pass P =7= Pass
-Pass Pass
-[Note "1:5+ C, GF"]
+4H =6= Pass Pass =7= Pass
+[Note "1:5+\Cs, GF"]
 [Note "2:waiting"]
-[Note "3:5332, non-min; start with 1S with 5min 332 and 8-10"]
+[Note "3:5332, non-min; start with 1\S with 5min 332 and 8-10"]
 [Note "4:waiting"]
 [Note "5:doubleton"]
 [Note "6:to play"]
@@ -82,18 +81,18 @@ Pass Pass
 5C =8= Pass 5D =9= Pass
 5NT =10= Pass 6H =11= Pass
 Pass Pass
-[Note "1:5+ S, GF"]
-[Note "2:6+ H"]
-[Note "3:4-5 D"]
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Hs"]
+[Note "3:4-5\Ds"]
 [Note "4:sets suit"]
 [Note "5:cue"]
 [Note "6:cue"]
-[Note "7:H keycard"]
+[Note "7:\H keycard"]
 [Note "8:3/0"]
 [Note "9:Q?"]
-[Note "10:QH no other K"]
+[Note "10:Q\H no other K"]
 [Note "11:probably too much to ask to get to 7; N would need to reveal shape more precisely"]
-{ Possible that N could bid 3D instead of 3H, which sets the suit and initiates cuebids }
+{ Possible that N could bid 3\D instead of 3\H, which sets the suit and initiates cuebids }
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -142,7 +141,7 @@ Pass Pass
 [Result ""]
 [Auction "N"]
 1C 1H X =1= 2H
-3C P 3NT Pass
+3C Pass 3NT Pass
 Pass Pass
 [Note "1:takeout, GF"]
 { Alternative }
@@ -167,9 +166,9 @@ Pass Pass
 2S =2= Pass 3C =3= Pass
 3H =4= Pass 4NT =5= Pass
 6NT Pass Pass Pass
-[Note "1:5+ C GF"]
+[Note "1:5+\Cs GF"]
 [Note "2:usually 6+ spades"]
-[Note "3:4-5 D"]
+[Note "3:4-5\Ds"]
 [Note "4:55 majors"]
 [Note "5:no fit, 11-13"]
 
@@ -195,9 +194,9 @@ Pass Pass
 4C =6= Pass 4D =7= Pass
 4S =8= Pass 5NT =9= Pass
 7H? Pass Pass Pass
-[Note "1:5+ H, GF"]
+[Note "1:5+\Hs, GF"]
 [Note "2:6+ spades"]
-[Note "3:6+ H"]
+[Note "3:6+\Hs"]
 [Note "4:set suit"]
 [Note "5:cue bid"]
 [Note "6:cue"]
@@ -226,13 +225,13 @@ Pass Pass
 3H =4= Pass 4D =5= Pass
 4S =6= Pass 5D =7= Pass
 6H Pass Pass Pass
-[Note "1:5+ D, GF"]
+[Note "1:5+\Ds, GF"]
 [Note "2:6+ hearts"]
 [Note "3:5332, non-min"]
 [Note "4:set suit"]
 [Note "5:cue"]
 [Note "6:keycard"]
-[Note "7:2 keycards, no QH"]
+[Note "7:2 keycards, no Q\H"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -253,8 +252,7 @@ Pass Pass
 1C Pass 3C =1= Pass
 3D =2= Pass 3S =3= Pass
 4C =4= Pass 4D =5= Pass
-4H =6= Pass P Pass
-Pass Pass
+4H =6= Pass Pass Pass
 [Note "1:4-4-1-4, 8+ HCP"]
 [Note "2:waiting"]
 [Note "3:11-13 HCP"]
@@ -285,17 +283,17 @@ Pass Pass
 4D =8= Pass 4NT =9= Pass
 5D =10= Pass 5NT =11= Pass
 6NT Pass Pass Pass
-[Note "1:5+ S, GF"]
-[Note "2:6+ C"]
-[Note "3:4-5 H"]
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Cs"]
+[Note "3:4-5\Hs"]
 [Note "4:set suit"]
 [Note "5:cue"]
 [Note "6:cue"]
 [Note "7:cue"]
 [Note "8:keycard"]
-[Note "9:2 keycards, no QC"]
+[Note "9:2 keycards, no Q\C"]
 [Note "10:kings?"]
-[Note "11:no KH, no KS, yes KD"]
+[Note "11:no K\H, no K\S, yes K\D"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -317,16 +315,16 @@ Pass Pass
 3D =2= Pass 4C =3= Pass
 4NT =4= Pass 5D =5= Pass
 5H =6= Pass 6S =7= Pass
-P =8= Pass Pass Pass
+Pass =8= Pass
 [Note "1:4-4-1-4, 8+ HCP"]
 [Note "2:waiting"]
 [Note "3:16+ HCP"]
 [Note "4:spade keycard"]
 [Note "5:3/0"]
 [Note "6:Q?"]
-[Note "7:QS, no other K’s"]
+[Note "7:Q\S, no other K’s"]
 [Note "8:probably"]
-{ I’ve never discussed this auction, because the 4C bid showing 16+ HCP is exceedingly rare. It stands to reason that the only permissible bids after that are looking for slams, so they should be keycard sequences for the usual mini-Roman relay }
+{ I’ve never discussed this auction, because the 4\C bid showing 16+ HCP is exceedingly rare. It stands to reason that the only permissible bids after that are looking for slams, so they should be keycard sequences for the usual mini-Roman relay }
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -347,8 +345,7 @@ P =8= Pass Pass Pass
 1C Pass 3C =1= Pass
 3D =2= Pass 3S =3= Pass
 4C =4= Pass 4D =5= Pass
-4H =6= Pass P Pass
-Pass Pass
+4H =6= Pass Pass Pass
 [Note "1:4-4-1-4, 8+ HCP"]
 [Note "2:waiting"]
 [Note "3:11-13 HCP"]
@@ -378,11 +375,11 @@ Pass Pass
 3S =6= Pass 4C =7= Pass
 4H =8= Pass 4S =9= Pass
 Pass Pass
-[Note "1:5+ S, GF"]
+[Note "1:5+\Ss, GF"]
 [Note "2:waiting"]
-[Note "3:6+ S"]
+[Note "3:6+\Ss"]
 [Note "4:set suit"]
-[Note "5:4 H - no cuebids below 3 of suit"]
+[Note "5:4\Hs - no cuebids below 3 of suit"]
 [Note "6:start cuebidding"]
 [Note "7:cue"]
 [Note "8:cue"]
@@ -431,14 +428,14 @@ Pass Pass
 [Contract ""]
 [Result ""]
 [Auction "N"]
-1C 1H 2H =1= P
+1C 1H 2H =1= Pass
 2NT =2= Pass 3D =3= Pass
 3NT =4= Pass Pass Pass
 [Note "1:4-1-4-4, GF"]
 [Note "2:ask"]
 [Note "3:11-13 HCP"]
-[Note "4:to play; maybe could sniff out 6D"]
-{ I’d expect W to raise to 3H instead of passing, in which case I don’t think N has an asking bid available. X would be penalty, 3S would set the suit, 3NT to play. 4-level bids sound like regular 3-suiter relays. Without interference, S would start with 3D to show 4-1-4-4 shape. Interestingly, interference helps save space here. }
+[Note "4:to play; maybe could sniff out 6\D"]
+{ I’d expect W to raise to 3\H instead of passing, in which case I don’t think N has an asking bid available. X would be penalty, 3\S would set the suit, 3NT to play. 4-level bids sound like regular 3-suiter relays. Without interference, S would start with 3\D to show 4-1-4-4 shape. Interestingly, interference helps save space here. }
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -488,11 +485,11 @@ Pass
 2C =2= Pass 3C =3= Pass
 3NT =4= Pass 4D =5= Pass
 4NT/5D =6= Pass Pass Pass
-[Note "1:5+ S, GF"]
-[Note "2:6+ C"]
-[Note "3:4-5 D"]
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Cs"]
+[Note "3:4-5\Ds"]
 [Note "4:to play"]
-[Note "5:5 D, 5S, slammish"]
+[Note "5:5\Ds, 5\S, slammish"]
 [Note "6:to play"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
@@ -517,8 +514,8 @@ Pass
 and keycard to come,
 landing in 6S or
 7S Pass Pass Pass
-[Note "1:5+ C, GF"]
-[Note "2:6+ S"]
+[Note "1:5+\Cs, GF"]
+[Note "2:6+\Ss"]
 [Note "3:3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape"]
 [Note "4:set suit"]
 
@@ -543,13 +540,13 @@ landing in 6S or
 4C =4= Pass 4D =5= Pass
 4NT =6= Pass P? =7= Pass
 Pass Pass
-[Note "1:1-4-4-4, 8+ HCP - I’d vote for this even with the stiff AS"]
+[Note "1:1-4-4-4, 8+ HCP - I’d vote for this even with the stiff A\S"]
 [Note "2:waiting"]
 [Note "3:14-15 HCP"]
 [Note "4:relay"]
 [Note "5:forced"]
 [Note "6:quantitative invite"]
-[Note "7:4C and beyond is a bit speculative here, not sure how it would go at the table"]
+[Note "7:4\C and beyond is a bit speculative here, not sure how it would go at the table"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -596,11 +593,11 @@ Pass Pass
 2C =2= Pass 2H =3= Pass
 2NT =4= Pass 3D =5= Pass
 3NT Pass Pass Pass
-[Note "1:5+ S, GF"]
-[Note "2:6+ C"]
-[Note "3:6+ S"]
+[Note "1:5+\Ss, GF"]
+[Note "2:6+\Cs"]
+[Note "3:6+\Ss"]
 [Note "4:natural-ish"]
-[Note "5:4 D"]
+[Note "5:4\Ds"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -618,7 +615,7 @@ Pass Pass
 [Contract ""]
 [Result ""]
 [Auction "N"]
-1C 2C P =1= 2D
+1C 2C Pass =1= 2D
 X =2= 3C 3H 3S
 4H Pass Pass Pass
 [Note "1:not GF"]
@@ -648,19 +645,19 @@ X =2= 3C 3H 3S
 5H =10= Pass 6C =11= Pass
 6D =12= Pass 6NT? Pass
 Pass Pass
-[Note "1:5+ D, GF"]
+[Note "1:5+\Ds, GF"]
 [Note "2:waiting"]
-[Note "3:4 S"]
+[Note "3:4\Ss"]
 [Note "4:set suit"]
 [Note "5:cue"]
 [Note "6:denies club control"]
-[Note "7:D keycard"]
+[Note "7:\D keycard"]
 [Note "8:3/0"]
 [Note "9:Q?"]
-[Note "10:QD, KH"]
+[Note "10:Q\D, K\H"]
 [Note "11:ask for K"]
 [Note "12:nope"]
-{ Finding 7 may be too hard; requires knowing about QS. Maybe N should take control of auction with keycard 4H instead of bidding 4D. }
+{ Finding 7 may be too hard; requires knowing about Q\S. Maybe N should take control of auction with keycard 4\H instead of bidding 4\D. }
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -705,9 +702,9 @@ Pass Pass
 1C Pass 2C =1= Pass
 2S =2= Pass 3D =3= Pass
 3NT? Pass Pass Pass
-[Note "1:5+ D, GF"]
-[Note "2:6+ S"]
-[Note "3:4 H"]
+[Note "1:5+\Ds, GF"]
+[Note "2:6+\Ss"]
+[Note "3:4\Hs"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -728,10 +725,10 @@ Pass Pass
 1C Pass 2D =1= Pass
 2H =2= Pass 3C =3= Pass
 4H =4= Pass Pass Pass
-[Note "1:5+ H, GF"]
+[Note "1:5+\Hs, GF"]
 [Note "2:waiting"]
 [Note "3:4-5 card minor"]
-[Note "4:to play; probably too light for 3H and cuebidding"]
+[Note "4:to play; probably too light for 3\H and cuebidding"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -849,7 +846,7 @@ etc Pass Pass Pass
 [Result ""]
 [Auction "N"]
 1C 2H X =1= 4H
-X =2= P 4S? Pass
+X =2= Pass 4S? Pass
 Pass Pass
 [Note "1:takeout, GF"]
 [Note "2:forcing pass situation"]
@@ -876,9 +873,9 @@ Pass Pass
 3S Pass 4D =6= Pass
 4NT etc Pass Pass
 Pass
-[Note "1:5+ S, GF"]
+[Note "1:5+\Ss, GF"]
 [Note "2:waiting"]
-[Note "3:4-5 D"]
+[Note "3:4-5\Ds"]
 [Note "4:sets suit"]
 [Note "5:likely a fragment 5-1-4-3 or 5-0-4-4"]
 [Note "6:cue"]
@@ -904,10 +901,10 @@ Pass
 2H =2= Pass 3D =3= Pass
 3S =4= Pass 3NT/4H Pass
 Pass Pass
-[Note "1:5+ H, GF"]
+[Note "1:5+\Hs, GF"]
 [Note "2:waiting, no 6-card suit"]
-[Note "3:6+ H"]
-[Note "4:5 S, probably skeptical of 3NT and 4H"]
+[Note "3:6+\Hs"]
+[Note "4:5\Ss, probably skeptical of 3NT and 4\H"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -931,7 +928,7 @@ Pass Pass
 [Note "1:1-4-4-4, 8+"]
 [Note "2:waiting"]
 [Note "3:14-15"]
-[Note "4:or could relay to 5D"]
+[Note "4:or could relay to 5\D"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -952,14 +949,13 @@ Pass Pass
 1C Pass 1S =1= Pass
 1NT =2= Pass 2NT =3= Pass
 3C =4= Pass 3D =5= Pass
-3NT Pass P Pass
-Pass Pass
+3NT Pass Pass Pass
 [Note "1:balanced, no 5-card suit, unless 8-10 and 5-card minor"]
 [Note "2:stayman-like"]
-[Note "3:4 C + another 4-card suit, 11-13 or 16+"]
+[Note "3:4\Cs + another 4-card suit, 11-13 or 16+"]
 [Note "4:waiting"]
-[Note "5:4 H"]
-{ would probably just raise to 3NT instead of 3C, but I wanted to show the full system. These 1S response hands should be coming up much more frequently… }
+[Note "5:4\Hs"]
+{ would probably just raise to 3NT instead of 3\C, but I wanted to show the full system. These 1\S response hands should be coming up much more frequently… }
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -977,9 +973,9 @@ Pass Pass
 [Contract ""]
 [Result ""]
 [Auction "N"]
-1C 3D? 3S =1= P
+1C 3D? 3S =1= Pass
 4H Pass Pass Pass
-[Note "1:5+ H, GF"]
+[Note "1:5+\Hs, GF"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -1000,7 +996,7 @@ Pass Pass
 1C Pass 2D =1= Pass
 2H =2= Pass 2S =3= Pass
 4H Pass Pass Pass
-[Note "1:5+ H, GF"]
+[Note "1:5+\Hs, GF"]
 [Note "2:waiting"]
 [Note "3:5332"]
 { No interference }
@@ -1025,11 +1021,11 @@ Pass Pass
 1S =2= Pass 2C =3= Pass
 2H =4= Pass 3D =5= Pass
 3NT Pass Pass Pass
-[Note "1:5+ S, GF"]
+[Note "1:5+\Ss, GF"]
 [Note "2:waiting"]
-[Note "3:4-5 D"]
-[Note "4:5 H"]
-[Note "5:5 D"]
+[Note "3:4-5\Ds"]
+[Note "4:5\Hs"]
+[Note "5:5\Ds"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -1054,18 +1050,18 @@ Pass Pass
 4S =8= Pass 4NT =9= Pass
 5S =10= Pass 5NT =11= Pass
 7NT =12= Pass Pass Pass
-[Note "1:5+ C, GF"]
-[Note "2:6+ H"]
-[Note "3:ostensibly 5332, but I think the assumption should be that N would go slow with 4 S. This hand is tough if S bids 3H, showing 4 S. Rule of thumb: don’t transfer over partner’s declared suit."]
+[Note "1:5+\Cs, GF"]
+[Note "2:6+\Hs"]
+[Note "3:ostensibly 5332, but I think the assumption should be that N would go slow with 4\Ss. This hand is tough if S bids 3\H, showing 4\Ss. Rule of thumb: don’t transfer over partner’s declared suit."]
 [Note "4:sets suit"]
 [Note "5:cue"]
 [Note "6:cue"]
 [Note "7:cue"]
-[Note "8:H keycard"]
+[Note "8:\H keycard"]
 [Note "9:1/4"]
 [Note "10:K’s?"]
-[Note "11:KS"]
-[Note "12:since the KD is known"]
+[Note "11:K\S"]
+[Note "12:since the K\D is known"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -1089,9 +1085,9 @@ Pass Pass
 4D Pass 4H Pass
 4NT =5= Pass 5H Pass
 6S Pass Pass Pass
-[Note "1:5+ H, GF"]
-[Note "2:6+ S; I think the suit is too good for agreeing to play H"]
-[Note "3:spade support; only other option would be 3S -> balanced hand"]
+[Note "1:5+\Hs, GF"]
+[Note "2:6+\Ss; I think the suit is too good for agreeing to play H"]
+[Note "3:spade support; only other option would be 3\S -> balanced hand"]
 [Note "4:sets suit"]
 [Note "5:keycard"]
 
@@ -1114,9 +1110,9 @@ Pass Pass
 1C Pass 2C =1= Pass
 2H =2= Pass 2NT =3= Pass
 3NT Pass Pass Pass
-[Note "1:5+ D, GF"]
-[Note "2:6+ H"]
-[Note "3:4-5 C"]
+[Note "1:5+\Ds, GF"]
+[Note "2:6+\Hs"]
+[Note "3:4-5\Cs"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
 [Site ""]
@@ -1140,14 +1136,14 @@ Pass Pass
 3S =6= Pass 4C =7= Pass
 4D =8= Pass 5NT =9= Pass
 6C Pass Pass Pass
-[Note "1:5+ C, GF"]
+[Note "1:5+\Cs, GF"]
 [Note "2:waiting"]
-[Note "3:4 S"]
+[Note "3:4\Ss"]
 [Note "4:sets suit"]
 [Note "5:cue"]
 [Note "6:cue"]
 [Note "7:extras, temporizing"]
-[Note "8:keycard for C"]
+[Note "8:keycard for \C"]
 [Note "9:even with void"]
 
 [Event "Precision 1C Opener Leveled by Responses x100"]
@@ -1166,9 +1162,9 @@ Pass Pass
 [Contract ""]
 [Result ""]
 [Auction "N"]
-1C 1H X =1= P
+1C 1H X =1= Pass
 1S 2D 2S 4D
-4S P 4NT =2= etc.
+4S Pass 4NT =2= etc.
 Pass Pass Pass
 [Note "1:GF, takeout"]
 [Note "2:keycard"]
