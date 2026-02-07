@@ -1,0 +1,216 @@
+Sample auctions
+Assume silent opps unless otherwise stated [opp bids in square brackets]
+“1-3-4-5”: 1 spade, 3 hearts, 4 diamonds, 5 clubs
+“1345” any 1345 shape
+1)      1C – 2H (1-4-4-4, 8+ HCP) – 2S (waiting) – 3C (11-13 HCP) – 3S (sets trump) – 4C (cue) – 4H (cue) – 4S
+2)      1C – 1NT (5+ C, GF) – 2C (waiting) – 2S (5332, non-min; start with 1S with 5min 332 and 8-10) – 2NT (waiting) – 3S (doubleton) – 4H (to play) – P (~13- HCP)
+3)      1C – 1H (5+ S, GF) – 2H (6+ H) – 3C (4-5 D) – 3H (sets suit) – 3S (cue) – 4D (cue) – 4S (H keycard) – 5C (3/0) – 5D (Q?) – 5NT (QH no other K) – 6H (probably too much to ask to get to 7; N would need to reveal shape more precisely)
+*Note: Possible that N could bid 3D instead of 3H, which sets the suit and initiates cuebids
+4)      1C – 2NT (4-4-4-1, 8+ HCP) – 3C (waiting) – 3H (11-13 HCP) – 3NT (to play) or (less likely) 4D (relay) – 4H (forced) – 5D (to play)
+Alternative: 1C – [1H] – X (takeout, GF) – [2H] – 3C – [P] – 3NT
+5)      1C – 1NT (5+ C GF) – 2S (usually 6+ spades) – 3C (4-5 D) – 3H (55 majors) – 4NT (no fit, 11-13) – 6NT
+6)      1C – 2D (5+ H, GF) – 2S (6+ spades) – 3D (6+ H) – 3H (set suit) – 3S (cue bid) – 4C (cue) – 4D (cue) – 4S (keycard) – 5NT (even w/ void) – 7H?
+7)      1C – 2C (5+ D, GF) – 2H (6+ hearts) – 2S (5332, non-min) – 3H (set suit) – 4D (cue) – 4S (keycard) – 5D (2 keycards, no QH) – 6H
+8)      1C – 3C (4-4-1-4, 8+ HCP) – 3D (waiting) – 3S (11-13 HCP) – 4C (relay) – 4D (forced) – 4H (nat slam try) – P
+9)      1C – 1H (5+ S, GF) – 2C (6+ C) – 2D (4-5 H) – 3C (set suit) – 3D (cue) – 3H (cue) – 3S (cue) – 4D (keycard) – 4NT (2 keycards, no QC) – 5D (kings?) – 5NT (no KH, no KS, yes KD) – 6NT
+10)   1C – 3C (4-4-1-4, 8+ HCP) – 3D (waiting) – 4C (16+ HCP) – 4NT (spade keycard) – 5D (3/0) – 5H (Q?) – 6S (QS, no other K’s) – P (probably)
+*Note: I’ve never discussed this auction, because the 4C bid showing 16+ HCP is exceedingly rare. It stands to reason that the only permissible bids after that are looking for slams, so they should be keycard sequences for the usual mini-Roman relay
+11)   Like #8
+12)   1C – 1H (5+ S, GF) – 1S (waiting) – 2H (6+ S) – 2S (set suit) – 3H (4 H – no cuebids below 3 of suit) – 3S (start cuebidding) – 4C (cue) – 4H (cue) – 4S (maybe?)
+13) 1C - 2NT (4-4-4-1, 8+ HCP) - 3C (waiting) - 3D (8-10 HCP) - 4D (relay) - 4H (forced) - 4S (to play)
+14) 1C - [1H] - 2H (4-1-4-4, GF) - [P] - 2NT (ask) - 3D (11-13 HCP) - 3NT (to play; maybe could sniff out 6D)
+Note: I’d expect W to raise to 3H instead of passing, in which case I don’t think N has an asking bid available. X would be penalty, 3S would set the suit, 3NT to play. 4-level bids sound like regular 3-suiter relays.
+Without interference, S would start with 3D to show 4-1-4-4 shape. Interestingly, interference helps save space here.
+15) 1C - 2H (1-4-4-4, GF) - 2S (waiting) - 2NT (8-10 HCP) - relay to 4H or investigate slam, I guess, maybe bidding 3D/H to set suit and ask for cuebids
+16) 1C - 1H (5+ S, GF) - 2C (6+ C) - 3C (4-5 D) - 3NT (to play) - 4D (5 D, 5S, slammish) - 4NT/5D (to play)
+17) 1C - 1NT (5+ C, GF) - 2S (6+ S) - 3H (3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape) - 3S (set suit) - cue bids and keycard to come, landing in 6S or 7S
+18) 1C - 2H (1-4-4-4, 8+ HCP – I’d vote for this even with the stiff AS) – 2S (waiting) – 3D (14-15 HCP) – 4C (relay) – 4D (forced) – 4NT (quantitative invite) – P? (4C and beyond is a bit speculative here, not sure how it would go at the table)
+19) 1C – 3C (4-4-1-4, 8+ HCP) – 3D (waiting) – 3NT (14-15 HCP) – 4NT? (spade keycard) – etc.
+20) 1C – 1H (5+ S, GF) – 2C (6+ C) – 2H (6+ S) – 2NT (natural-ish) – 3D (4 D) – 3NT
+21) 1C – [2C] – P (not GF) – [2D] – X (takeout) – [3C] – 3H – [3S] – 4H – all pass
+22) 1C – 2C (5+ D, GF) – 2D (waiting) – 2H (4 S) – 3D (set suit) – 3S (cue) – 4D (denies club control) – 4H (D keycard) – 4NT (3/0) – 5C (Q?) – 5H (QD, KH) – 6C (ask for K) – 6D (nope) – 6NT? 
+Finding 7 may be too hard; requires knowing about QS. Maybe N should take control of auction with keycard 4H instead of bidding 4D.
+23) 1C – 2NT (4-4-4-1, 8+) – 3C (waiting) – 3NT (16+ HCP) – 6NT (to play, expecting 16 HCP)
+24) 1C – 2C (5+ D, GF) – 2S (6+ S) – 3D (4 H) – 3NT?
+25) 1C - 2D (5+ H, GF) - 2H (waiting) - 3C (4-5 card minor) - 4H (to play; probably too light for 3H and cuebidding)
+26) 1C – 3D (4-1-4-4, 8+) – 3H (waiting) – 3S (11-13 HCP) – 4C (relay) – 4D (forced) – 5D (slam invite)
+27) 1C – 2NT (4-4-4-1, 8+) – 3C (waiting) – 3D (8-10 HCP) – relay to 4H
+28) 1C – 2H (1-4-4-4, 8+; don’t lie about shape I guess) – 2S (waiting) – 2NT (8-10 HCP) – either 3NT or relay to 4H
+29) 1C – 3C (4-4-1-4, 8+) – 3D (waiting) – 3S (11-13) – etc
+30) 1C – [2H] – X (takeout, GF) – [4H] – X (forcing pass situation) – [P] – 4S?
+Without interference: 1C – 1H (5+ S, GF) – 1S (waiting) – 2C (4-5 D) – 2S (sets suit) – 3C (likely a fragment 5-1-4-3 or 5-0-4-4) – 3S – 4D (cue) – 4NT etc
+31) 1C – 2D (5+ H, GF) – 2H (waiting, no 6-card suit) – 3D (6+ H) – 3S (5 S, probably skeptical of 3NT and 4H) – 3NT/4H
+32) 1C – 2H (1-4-4-4, 8+) – 2S (waiting) – 3D (14-15) – 3NT (or could relay to 5D)
+33) 1C – 1S (balanced, no 5-card suit, unless 8-10 and 5-card minor) – 1NT (stayman-like) – 2NT (4 C + another 4-card suit, 11-13 or 16+) – 3C (waiting) – 3D (4 H) – 3NT – P
+Note: would probably just raise to 3NT instead of 3C, but I wanted to show the full system. These 1S response hands should be coming up much more frequently…
+34) 1C – [3D?] – 3S (5+ H, GF) – [P] – 4H
+No interference: 1C – 2D (5+ H, GF) – 2H (waiting) – 2S (5332) – 4H
+35) 1C – 1H (5+ S, GF) – 1S (waiting) – 2C (4-5 D) – 2H (5 H) – 3D (5 D) – 3NT
+36) 1C – 1NT (5+ C, GF) – 2H (6+ H) – 2S (ostensibly 5332, but I think the assumption should be that N would go slow with 4 S. This hand is tough if S bids 3H, showing 4 S. Rule of thumb: don’t transfer over partner’s declared suit.) – 3H (sets suit) – 3S (cue) – 4C (cue) – 4D (cue) – 4S (H keycard) – 4NT (1/4) – 5S (K’s?) – 5NT (KS) – 7NT (since the KD is known)
+37) 1C – 2D (5+ H, GF) – 2S (6+ S; I think the suit is too good for agreeing to play H) – 3H (spade support; only other option would be 3S -> balanced hand) – 3S (sets suit) – 4C – 4D – 4H – 4NT (keycard) – 5H – 6S
+38) 1C – 2C (5+ D, GF) – 2H (6+ H) – 2NT (4-5 C) – 3NT
+39) 1C – 1NT (5+ C, GF) – 2C (waiting) – 2H (4 S) – 3C (sets suit) – 3H (cue) – 3S (cue) – 4C (extras, temporizing) – 4D (keycard for C) – 5NT (even with void) – 6C
+40) 1C – [1H] – X (GF, takeout) – [P] – 1S – [2D] – 2S – [4D] – 4S – [P] – 4NT (keycard) etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent system modifications:
+
+System modifications:
+
+2NT = 22-23
+1C-1D-2NT = 20-21
+
+Or, maybe 2NT = both minors preemptive?
+Then, 1C-1D-2NT = 20-22?
+1C-1D-2H-2S-2NT = 23+?
+
+2C opening responses:
+
+2C-2D-
+2H-...
+2S: 4 hearts any point range (this allows partner to park the contract in 3C if they don’t like hearts)
+3D: slam interest in clubs
+3H: invite to 4H (raise with max)
+3S: slam interest in H?
+4H: to play
+2NT: 4 spades, min
+3D: slam interest in clubs
+3H: slam interest in S?
+(3/4)S: to play
+3C: 4 spades, max (similarly, any response showing spades can end with a 3C contract if partner wanted to find a 4-4 heart fit)
+3D: slam interest in clubs
+3H: cuebid for spades?
+3S: sets suit, slam interest
+4S: to play
+
+1C-2C-
+2D: waiting, no good 6-card suit to bid
+2H: 5D 4S
+2S: 5D, 5332 shape
+2NT: asking
+3C: any min (8-10 HCP)
+3D: ask
+3H: 2 hearts
+3S: 2 spades
+3NT: 2 clubs
+3D: 11+ HCP, 2 clubs
+3H: 11+ HCP, 2 hearts
+3S: 11+ HCP, 2 spades
+2NT: 5H 4C
+3C: 6D
+3D: 5D 4H
+3H: 6D 5S
+
+2S: 6+ spades
+2NT: ?
+3C: 6+ clubs
+3D: 6+ diamonds
+
+
+
+
+1C-2D-
+2H: waiting, no good 6-card suit to bid
+2S: 5H, 5332 shape
+2NT: asking
+3C: any min (8-10 HCP)
+3D: ask
+3H: 3 spades
+3S: 2 spades
+3D: 11+ HCP, 2 diamonds
+3H: 11+ HCP, 2 hearts
+3S: 11+ HCP, 2 spades
+2NT: 5H 4S
+3C: 5H 4-5m
+3D: ask for minor
+3H: 4-5C
+3S: 4-5D
+3D: 6H
+3H: 6H 5S
+
+2S: 6+ spades
+2NT: ?
+3C: 6+ clubs
+3D: 6+ diamonds
+
+
+After interference over 1C:
+1C-(nY)-...
+P: 8- HCP or trap
+X: takeout, GF
+NT: stopper, balanced
+nY+1: highest ranking suit
+nY+2: middle ranking suit
+nY+3: lowest ranking suit
+(n+1)Y: 4441, singleton in Y
+
+
+Ex: 1C-(2C)-...
+2D: 5+ S
+2H: 5+ H
+2S: 5+ D
+2NT: club stopper
+3C: 4441 (
+
+General comment about style: if opener bids a suit naturally after responder’s GF transfer bid, it should be 6 cards (or a very good 5 cards). Responder can show support in that suit with three cards (maybe 2 with an honor?) with his next bid.
+
+1C opening with both majors:
+1C - P - 2C - P - 
+2S - P - 3C - P - 
+3H - P - ?
+Opener shows 55 in the majors (can show 6-card suit twice if 65)
+Responder should bid 3S to choose spades, or 3NT naturally [if minimum - 4NT with 11-13, 5NT with 14-15, 6NT with 16+?]. Other bids are cue bids for hearts.
+
+
+Next bid after responder shows balanced 5332:
+1C - P - 2C - P
+2D - P - 2S - P
+3H/S shows a five card suit, either to play 3NT or 4M?
+(Presumably 3C would be 6 card suit, because hard for opener to bid 3C at second bid)
+
+5 hearts, 4 spades, GF as responder:
+1C - P - 2D - P -
+2H - P - 3H -
+?
+Problem: showing 5 hearts 4 spades takes up too much space 
+Solution: 
+
+1C - P - 2D - P -
+2H* - P - 
+*2H could have 4 spades, denies 3+ hearts (tell me more, partner)
+- 2S/2NT/3C/3D/3H are transfers as usual
+
+
+1C - P - 2D - P -
+2S* - P - 
+*2S shows 6 spades (maybe good 5)
+Responder bids as usual, showing good 2 or 3 card spade support with 3H
+
+1C - P - 2D - P -
+2NT* - P - 
+*2NT denies 4 spades, may have heart support
+- 3C/3D are transfers as usual
+- 3H shows 6 hearts 5 spades
+- 3S is transfer to 3NT
+- 3NT is transfer to clubs, shows 5 hearts 5 clubs (can pass with min 17-19 and no fit)
+
+The definition of “balanced”
+1C - P - 1S -
+This auction can include hands with 5 bad clubs or diamonds (only with a minimum response) (8-10 HCP)
+

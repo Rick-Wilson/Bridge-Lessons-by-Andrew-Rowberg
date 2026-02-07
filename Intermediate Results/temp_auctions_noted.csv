@@ -1,0 +1,44 @@
+deal,auction,bid_notes,notes
+1,1C Pass 2H =1= Pass 2S =2= Pass 3C =3= Pass 3S =4= Pass 4C =5= Pass 4H =6= Pass 4S Pass Pass Pass,"1:1-4-4-4, 8+ HCP|2:waiting|3:11-13 HCP|4:sets trump|5:cue|6:cue",
+2,1C Pass 1NT =1= Pass 2C =2= Pass 2S =3= Pass 2NT =4= Pass 3S =5= Pass 4H =6= Pass P =7= Pass Pass Pass,"1:5+ C, GF|2:waiting|3:5332, non-min; start with 1S with 5min 332 and 8-10|4:waiting|5:doubleton|6:to play|7:~13- HCP",
+3,1C Pass 1H =1= Pass 2H =2= Pass 3C =3= Pass 3H =4= Pass 3S =5= Pass 4D =6= Pass 4S =7= Pass 5C =8= Pass 5D =9= Pass 5NT =10= Pass 6H =11= Pass Pass Pass,"1:5+ S, GF|2:6+ H|3:4-5 D|4:sets suit|5:cue|6:cue|7:H keycard|8:3/0|9:Q?|10:QH no other K|11:probably too much to ask to get to 7; N would need to reveal shape more precisely","Possible that N could bid 3D instead of 3H, which sets the suit and initiates cuebids"
+4,1C Pass 2NT =1= Pass 3C =2= Pass 3H =3= Pass 3NT =4= or =5= 4D =6= Pass 4H =7= Pass 5D =8= Pass Pass Pass,"1:4-4-4-1, 8+ HCP|2:waiting|3:11-13 HCP|4:to play|5:less likely|6:relay|7:forced|8:to play",
+4-1,1C 1H X =1= 2H 3C P 3NT Pass Pass Pass,"1:takeout, GF",Alternative
+5,1C Pass 1NT =1= Pass 2S =2= Pass 3C =3= Pass 3H =4= Pass 4NT =5= Pass 6NT Pass Pass Pass,"1:5+ C GF|2:usually 6+ spades|3:4-5 D|4:55 majors|5:no fit, 11-13",
+6,1C Pass 2D =1= Pass 2S =2= Pass 3D =3= Pass 3H =4= Pass 3S =5= Pass 4C =6= Pass 4D =7= Pass 4S =8= Pass 5NT =9= Pass 7H? Pass Pass Pass,"1:5+ H, GF|2:6+ spades|3:6+ H|4:set suit|5:cue bid|6:cue|7:cue|8:keycard|9:even w/ void",
+7,1C Pass 2C =1= Pass 2H =2= Pass 2S =3= Pass 3H =4= Pass 4D =5= Pass 4S =6= Pass 5D =7= Pass 6H Pass Pass Pass,"1:5+ D, GF|2:6+ hearts|3:5332, non-min|4:set suit|5:cue|6:keycard|7:2 keycards, no QH",
+8,1C Pass 3C =1= Pass 3D =2= Pass 3S =3= Pass 4C =4= Pass 4D =5= Pass 4H =6= Pass P Pass Pass Pass,"1:4-4-1-4, 8+ HCP|2:waiting|3:11-13 HCP|4:relay|5:forced|6:nat slam try",
+9,1C Pass 1H =1= Pass 2C =2= Pass 2D =3= Pass 3C =4= Pass 3D =5= Pass 3H =6= Pass 3S =7= Pass 4D =8= Pass 4NT =9= Pass 5D =10= Pass 5NT =11= Pass 6NT Pass Pass Pass,"1:5+ S, GF|2:6+ C|3:4-5 H|4:set suit|5:cue|6:cue|7:cue|8:keycard|9:2 keycards, no QC|10:kings?|11:no KH, no KS, yes KD",
+10,1C Pass 3C =1= Pass 3D =2= Pass 4C =3= Pass 4NT =4= Pass 5D =5= Pass 5H =6= Pass 6S =7= Pass P =8= Pass Pass Pass,"1:4-4-1-4, 8+ HCP|2:waiting|3:16+ HCP|4:spade keycard|5:3/0|6:Q?|7:QS, no other K’s|8:probably","I’ve never discussed this auction, because the 4C bid showing 16+ HCP is exceedingly rare. It stands to reason that the only permissible bids after that are looking for slams, so they should be keycard sequences for the usual mini-Roman relay"
+11,1C Pass 3C =1= Pass 3D =2= Pass 3S =3= Pass 4C =4= Pass 4D =5= Pass 4H =6= Pass P Pass Pass Pass,"1:4-4-1-4, 8+ HCP|2:waiting|3:11-13 HCP|4:relay|5:forced|6:nat slam try",
+12,1C Pass 1H =1= Pass 1S =2= Pass 2H =3= Pass 2S =4= Pass 3H =5= Pass 3S =6= Pass 4C =7= Pass 4H =8= Pass 4S =9= Pass Pass Pass,"1:5+ S, GF|2:waiting|3:6+ S|4:set suit|5:4 H - no cuebids below 3 of suit|6:start cuebidding|7:cue|8:cue|9:maybe?",
+13,1C Pass 2NT =1= Pass 3C =2= Pass 3D =3= Pass 4D =4= Pass 4H =5= Pass 4S =6= Pass Pass Pass,"1:4-4-4-1, 8+ HCP|2:waiting|3:8-10 HCP|4:relay|5:forced|6:to play",
+14,1C 1H 2H =1= P 2NT =2= Pass 3D =3= Pass 3NT =4= Pass Pass Pass,"1:4-1-4-4, GF|2:ask|3:11-13 HCP|4:to play; maybe could sniff out 6D","I’d expect W to raise to 3H instead of passing, in which case I don’t think N has an asking bid available. X would be penalty, 3S would set the suit, 3NT to play. 4-level bids sound like regular 3-suiter relays. Without interference, S would start with 3D to show 4-1-4-4 shape. Interestingly, interference helps save space here."
+15,"1C Pass 2H =1= Pass 2S =2= Pass 2NT =3= Pass relay to 4H or investigate slam, I guess, maybe bidding 3D/H to set suit and ask for cuebids Pass Pass Pass","1:1-4-4-4, GF|2:waiting|3:8-10 HCP",
+16,1C Pass 1H =1= Pass 2C =2= Pass 3C =3= Pass 3NT =4= Pass 4D =5= Pass 4NT/5D =6= Pass Pass Pass,"1:5+ S, GF|2:6+ C|3:4-5 D|4:to play|5:5 D, 5S, slammish|6:to play",
+17,"1C Pass 1NT =1= Pass 2S =2= Pass 3H =3= Pass 3S =4= Pass cue bids and keycard to come, landing in 6S or 7S Pass Pass Pass","1:5+ C, GF|2:6+ S|3:3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape|4:set suit",
+18,1C Pass 2H =1= Pass 2S =2= Pass 3D =3= Pass 4C =4= Pass 4D =5= Pass 4NT =6= Pass P? =7= Pass Pass Pass,"1:1-4-4-4, 8+ HCP - I’d vote for this even with the stiff AS|2:waiting|3:14-15 HCP|4:relay|5:forced|6:quantitative invite|7:4C and beyond is a bit speculative here, not sure how it would go at the table",
+19,1C Pass 3C =1= Pass 3D =2= Pass 3NT =3= Pass 4NT? =4= Pass etc. Pass Pass Pass,"1:4-4-1-4, 8+ HCP|2:waiting|3:14-15 HCP|4:spade keycard",
+20,1C Pass 1H =1= Pass 2C =2= Pass 2H =3= Pass 2NT =4= Pass 3D =5= Pass 3NT Pass Pass Pass,"1:5+ S, GF|2:6+ C|3:6+ S|4:natural-ish|5:4 D",
+21,1C 2C P =1= 2D X =2= 3C 3H 3S 4H Pass Pass Pass,1:not GF|2:takeout,
+22,1C Pass 2C =1= Pass 2D =2= Pass 2H =3= Pass 3D =4= Pass 3S =5= Pass 4D =6= Pass 4H =7= Pass 4NT =8= Pass 5C =9= Pass 5H =10= Pass 6C =11= Pass 6D =12= Pass 6NT? Pass Pass Pass,"1:5+ D, GF|2:waiting|3:4 S|4:set suit|5:cue|6:denies club control|7:D keycard|8:3/0|9:Q?|10:QD, KH|11:ask for K|12:nope",Finding 7 may be too hard; requires knowing about QS. Maybe N should take control of auction with keycard 4H instead of bidding 4D.
+23,1C Pass 2NT =1= Pass 3C =2= Pass 3NT =3= Pass 6NT =4= Pass Pass Pass,"1:4-4-4-1, 8+|2:waiting|3:16+ HCP|4:to play, expecting 16 HCP",
+24,1C Pass 2C =1= Pass 2S =2= Pass 3D =3= Pass 3NT? Pass Pass Pass,"1:5+ D, GF|2:6+ S|3:4 H",
+25,1C Pass 2D =1= Pass 2H =2= Pass 3C =3= Pass 4H =4= Pass Pass Pass,"1:5+ H, GF|2:waiting|3:4-5 card minor|4:to play; probably too light for 3H and cuebidding",
+26,1C Pass 3D =1= Pass 3H =2= Pass 3S =3= Pass 4C =4= Pass 4D =5= Pass 5D =6= Pass Pass Pass,"1:4-1-4-4, 8+|2:waiting|3:11-13 HCP|4:relay|5:forced|6:slam invite",
+27,1C Pass 2NT =1= Pass 3C =2= Pass 3D =3= Pass relay to 4H Pass Pass Pass,"1:4-4-4-1, 8+|2:waiting|3:8-10 HCP",
+28,1C Pass 2H =1= Pass 2S =2= Pass 2NT =3= Pass either 3NT or relay to 4H Pass Pass Pass,"1:1-4-4-4, 8+; don’t lie about shape I guess|2:waiting|3:8-10 HCP",
+29,1C Pass 3C =1= Pass 3D =2= Pass 3S =3= Pass etc Pass Pass Pass,"1:4-4-1-4, 8+|2:waiting|3:11-13",
+30,1C 2H X =1= 4H X =2= P 4S? Pass Pass Pass,"1:takeout, GF|2:forcing pass situation",
+30-1,1C Pass 1H =1= Pass 1S =2= Pass 2C =3= Pass 2S =4= Pass 3C =5= Pass 3S Pass 4D =6= Pass 4NT etc Pass Pass Pass,"1:5+ S, GF|2:waiting|3:4-5 D|4:sets suit|5:likely a fragment 5-1-4-3 or 5-0-4-4|6:cue",Without interference
+31,1C Pass 2D =1= Pass 2H =2= Pass 3D =3= Pass 3S =4= Pass 3NT/4H Pass Pass Pass,"1:5+ H, GF|2:waiting, no 6-card suit|3:6+ H|4:5 S, probably skeptical of 3NT and 4H",
+32,1C Pass 2H =1= Pass 2S =2= Pass 3D =3= Pass 3NT =4= Pass Pass Pass,"1:1-4-4-4, 8+|2:waiting|3:14-15|4:or could relay to 5D",
+33,1C Pass 1S =1= Pass 1NT =2= Pass 2NT =3= Pass 3C =4= Pass 3D =5= Pass 3NT Pass P Pass Pass Pass,"1:balanced, no 5-card suit, unless 8-10 and 5-card minor|2:stayman-like|3:4 C + another 4-card suit, 11-13 or 16+|4:waiting|5:4 H","would probably just raise to 3NT instead of 3C, but I wanted to show the full system. These 1S response hands should be coming up much more frequently…"
+34,1C 3D? 3S =1= P 4H Pass Pass Pass,"1:5+ H, GF",
+34-1,1C Pass 2D =1= Pass 2H =2= Pass 2S =3= Pass 4H Pass Pass Pass,"1:5+ H, GF|2:waiting|3:5332",No interference
+35,1C Pass 1H =1= Pass 1S =2= Pass 2C =3= Pass 2H =4= Pass 3D =5= Pass 3NT Pass Pass Pass,"1:5+ S, GF|2:waiting|3:4-5 D|4:5 H|5:5 D",
+36,1C Pass 1NT =1= Pass 2H =2= Pass 2S =3= Pass 3H =4= Pass 3S =5= Pass 4C =6= Pass 4D =7= Pass 4S =8= Pass 4NT =9= Pass 5S =10= Pass 5NT =11= Pass 7NT =12= Pass Pass Pass,"1:5+ C, GF|2:6+ H|3:ostensibly 5332, but I think the assumption should be that N would go slow with 4 S. This hand is tough if S bids 3H, showing 4 S. Rule of thumb: don’t transfer over partner’s declared suit.|4:sets suit|5:cue|6:cue|7:cue|8:H keycard|9:1/4|10:K’s?|11:KS|12:since the KD is known",
+37,1C Pass 2D =1= Pass 2S =2= Pass 3H =3= Pass 3S =4= Pass 4C Pass 4D Pass 4H Pass 4NT =5= Pass 5H Pass 6S Pass Pass Pass,"1:5+ H, GF|2:6+ S; I think the suit is too good for agreeing to play H|3:spade support; only other option would be 3S -> balanced hand|4:sets suit|5:keycard",
+38,1C Pass 2C =1= Pass 2H =2= Pass 2NT =3= Pass 3NT Pass Pass Pass,"1:5+ D, GF|2:6+ H|3:4-5 C",
+39,1C Pass 1NT =1= Pass 2C =2= Pass 2H =3= Pass 3C =4= Pass 3H =5= Pass 3S =6= Pass 4C =7= Pass 4D =8= Pass 5NT =9= Pass 6C Pass Pass Pass,"1:5+ C, GF|2:waiting|3:4 S|4:sets suit|5:cue|6:cue|7:extras, temporizing|8:keycard for C|9:even with void",
+40,1C 1H X =1= P 1S 2D 2S 4D 4S P 4NT =2= etc. Pass Pass Pass,"1:GF, takeout|2:keycard",
