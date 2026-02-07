@@ -1,0 +1,32 @@
+{
+  "name": "Lock-Step Lessons",
+  "description": "Precision bidding lessons by Andrew Rowberg",
+  "icon": "♣",
+  "version": "1.0",
+  "categories": [
+    {
+      "id": "precision_bidding",
+      "name": "Precision Bidding",
+      "lessons": [
+        {
+          "id": "Precision 1C Opener",
+          "name": "Precision 1C - Opener",
+          "description": "Opening the Precision 1C bid",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Precision 1C Responder",
+          "name": "Precision 1C - Responder",
+          "description": "Responding to Precision 1C",
+          "difficulty": "intermediate"
+        },
+        {
+          "id": "Precision 1C Mixed",
+          "name": "Precision 1C - Mixed Practice",
+          "description": "Combined opener and responder practice",
+          "difficulty": "intermediate"
+        }
+      ]
+    }
+  ]
+}
