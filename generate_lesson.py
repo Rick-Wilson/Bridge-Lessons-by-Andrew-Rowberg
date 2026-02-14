@@ -192,6 +192,48 @@ def trim_trailing_passes(bids):
     return bids
 
 
+def format_auction_lines(bids):
+    """Format parsed bids into clean PBN auction lines.
+
+    Adds 3 trailing passes to end the auction, includes =N= annotations,
+    and groups into lines of 4 bids.
+    """
+    # Build list of bid tokens with annotations
+    tokens = []
+    for _seat, bid, note_num in bids:
+        tokens.append(bid)
+        if note_num is not None:
+            tokens.append(f'={note_num}=')
+
+    # Add trailing passes to close the auction (3 passes after last non-pass)
+    pass_count = 0
+    for _seat, bid, _note in reversed(bids):
+        if bid.upper() == 'PASS':
+            pass_count += 1
+        else:
+            break
+    while pass_count < 3:
+        tokens.append('Pass')
+        pass_count += 1
+
+    # Group into lines of 4 bids (annotations don't count as bids)
+    lines = []
+    current_line = []
+    bid_count = 0
+    for token in tokens:
+        current_line.append(token)
+        if not re.match(r'^=\d+=$', token):
+            bid_count += 1
+        if bid_count == 4:
+            lines.append(' '.join(current_line))
+            current_line = []
+            bid_count = 0
+    if current_line:
+        lines.append(' '.join(current_line))
+
+    return lines
+
+
 def format_meaning(meaning):
     """Format a bid meaning with the appropriate verb/phrasing."""
     if not meaning:
@@ -321,17 +363,24 @@ def write_lesson_pbn(boards, output_path, event_name, skill_path,
                     value = event_name
                 elif tag == 'Deal' and do_rotate:
                     value = rotate_deal_tag(value)
+                elif tag == 'Dealer' and do_rotate:
+                    value = rotate_seat(value)
                 f.write(f'[{tag} "{value}"]\n')
 
             # Auction dealer (rotated if needed)
             dealer = board['auction_dealer']
             if do_rotate:
                 dealer = rotate_seat(dealer)
+
+            # Parse bids (stops at invalid tokens like 'relay', 'etc.')
+            bids = parse_auction_bids(board['auction_lines'], dealer)
+
+            # Write clean auction lines (reconstructed from parsed bids)
             f.write(f'[Auction "{dealer}"]\n')
-            for line in board['auction_lines']:
+            for line in format_auction_lines(bids):
                 f.write(f'{line}\n')
 
-            # Write notes
+            # Write notes (only those referenced by valid bids)
             for note_line in board['note_lines']:
                 f.write(f'{note_line}\n')
 
@@ -343,7 +392,6 @@ def write_lesson_pbn(boards, output_path, event_name, skill_path,
             f.write(f'[SkillPath "{skill_path}"]\n')
 
             # Generate and write commentary
-            bids = parse_auction_bids(board['auction_lines'], dealer)
             bids = trim_trailing_passes(bids)
 
             commentary = generate_south_commentary(

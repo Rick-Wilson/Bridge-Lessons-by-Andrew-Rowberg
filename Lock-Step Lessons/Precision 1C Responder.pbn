@@ -345,7 +345,7 @@ North bids 6NT.
 3H =4= Pass 3S =5= Pass
 4C =6= Pass 4D =7= Pass
 4S =8= Pass 5NT =9= Pass
-7H? Pass Pass Pass
+7H Pass Pass Pass
 [Note "1:5+\Hs, GF"]
 [Note "2:6+ spades"]
 [Note "3:6+\Hs"]
@@ -865,9 +865,7 @@ I’d expect W to raise to 3\H instead of passing, in which case I don’t think
 [Auction "N"]
 1C Pass 2H =1= Pass
 2S =2= Pass 2NT =3= Pass
-4D relay to 4H
-Pass 4H Pass Pass
-Pass
+4D Pass Pass Pass
 [Note "1:1-4-4-4, GF"]
 [Note "2:waiting"]
 [Note "3:8-10 HCP"]
@@ -912,7 +910,7 @@ North bids 4\D.
 1C Pass 1H =1= Pass
 2C =2= Pass 3C =3= Pass
 3NT =4= Pass 4D =5= Pass
-4NT/5D =6= Pass Pass Pass
+Pass Pass
 [Note "1:5+\Ss, GF"]
 [Note "2:6+\Cs"]
 [Note "3:4-5\Ds"]
@@ -961,10 +959,7 @@ You bid 4\D showing 5\Ds, 5\S, slammish.
 [Auction "N"]
 1C Pass 1NT =1= Pass
 2S =2= Pass 3H =3= Pass
-3S =4= Pass cue bids
-and keycard to come,
-landing in 6S or
-7S Pass Pass Pass
+3S =4= Pass Pass Pass
 [Note "1:5+\Cs, GF"]
 [Note "2:6+\Ss"]
 [Note "3:3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape"]
@@ -1010,7 +1005,7 @@ North bids 3\S, setting the suit.
 1C Pass 2H =1= Pass
 2S =2= Pass 3D =3= Pass
 4C =4= Pass 4D =5= Pass
-4NT =6= Pass P? =7= Pass
+4NT =6= Pass Pass =7= Pass
 Pass Pass
 [Note "1:1-4-4-4, 8+ HCP - I’d vote for this even with the stiff A\S"]
 [Note "2:waiting"]
@@ -1065,8 +1060,7 @@ You pass showing 4\C and beyond is a bit speculative here, not sure how it would
 [Auction "N"]
 1C Pass 3C =1= Pass
 3D =2= Pass 3NT =3= Pass
-4NT? =4= Pass etc. Pass
-Pass Pass
+4NT =4= Pass Pass Pass
 [Note "1:4-4-1-4, 8+ HCP"]
 [Note "2:waiting"]
 [Note "3:14-15 HCP"]
@@ -1213,7 +1207,7 @@ North bids 4\H.
 4D =6= Pass 4H =7= Pass
 4NT =8= Pass 5C =9= Pass
 5H =10= Pass 6C =11= Pass
-6D =12= Pass 6NT? Pass
+6D =12= Pass 6NT Pass
 Pass Pass
 [Note "1:5+\Ds, GF"]
 [Note "2:waiting"]
@@ -1332,7 +1326,7 @@ North bids 6NT to play, expecting 16 HCP.
 [Auction "N"]
 1C Pass 2C =1= Pass
 2S =2= Pass 3D =3= Pass
-3NT? Pass Pass Pass
+3NT Pass Pass Pass
 [Note "1:5+\Ds, GF"]
 [Note "2:6+\Ss"]
 [Note "3:4\Hs"]
@@ -1473,7 +1467,6 @@ North bids 5\D showing slam invite.
 [Auction "N"]
 1C Pass 2NT =1= Pass
 3C =2= Pass 3D =3= Pass
-relay to 4H Pass
 Pass Pass
 [Note "1:4-4-4-1, 8+"]
 [Note "2:waiting"]
@@ -1516,9 +1509,7 @@ You bid 3\D showing 8-10 HCP.
 [Auction "N"]
 1C Pass 2H =1= Pass
 2S =2= Pass 2NT =3= Pass
-either 3NT or relay
-to 4H Pass Pass
-Pass
+Pass Pass
 [Note "1:1-4-4-4, 8+; don’t lie about shape I guess"]
 [Note "2:waiting"]
 [Note "3:8-10 HCP"]
@@ -1560,7 +1551,7 @@ You bid 2NT showing 8-10 HCP.
 [Auction "N"]
 1C Pass 3C =1= Pass
 3D =2= Pass 3S =3= Pass
-etc Pass Pass Pass
+Pass Pass
 [Note "1:4-4-1-4, 8+"]
 [Note "2:waiting"]
 [Note "3:11-13"]
@@ -1601,7 +1592,7 @@ You bid 3\S showing 11-13.
 [Result ""]
 [Auction "N"]
 1C 2H X =1= 4H
-X =2= Pass 4S? Pass
+X =2= Pass 4S Pass
 Pass Pass
 [Note "1:takeout, GF"]
 [Note "2:forcing pass situation"]
@@ -1647,8 +1638,7 @@ You bid 4\S.
 1S =2= Pass 2C =3= Pass
 2S =4= Pass 3C =5= Pass
 3S Pass 4D =6= Pass
-4NT etc Pass Pass
-Pass
+4NT Pass Pass Pass
 [Note "1:5+\Ss, GF"]
 [Note "2:waiting"]
 [Note "3:4-5\Ds"]
@@ -1705,8 +1695,7 @@ Without interference
 [Auction "N"]
 1C Pass 2D =1= Pass
 2H =2= Pass 3D =3= Pass
-3S =4= Pass 3NT/4H Pass
-Pass Pass
+3S =4= Pass Pass Pass
 [Note "1:5+\Hs, GF"]
 [Note "2:waiting, no 6-card suit"]
 [Note "3:6+\Hs"]
@@ -1847,7 +1836,7 @@ would probably just raise to 3NT instead of 3\C, but I wanted to show the full s
 [Contract ""]
 [Result ""]
 [Auction "N"]
-1C 3D? 3S =1= Pass
+1C 3D 3S =1= Pass
 4H Pass Pass Pass
 [Note "1:5+\Hs, GF"]
 [Student "S"]
@@ -2227,8 +2216,8 @@ North bids 6\C.
 [Auction "N"]
 1C 1H X =1= Pass
 1S 2D 2S 4D
-4S Pass 4NT =2= etc.
-Pass Pass Pass
+4S Pass 4NT =2= Pass
+Pass Pass
 [Note "1:GF, takeout"]
 [Note "2:keycard"]
 [Student "S"]

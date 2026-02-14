@@ -65,7 +65,7 @@ You bid 4\S.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:A82.AKT43.K53.AT KT53.J75.J987.62 J7.Q98.A64.KQ974 Q964.62.QT2.J853"]
 [Scoring ""]
@@ -193,7 +193,7 @@ Possible that N could bid 3\D instead of 3\H, which sets the suit and initiates 
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:973.A.KJT4.AKQ87 AT.K9742.7.J9432 KQJ8.J863.A832.T 6542.QT5.Q965.65"]
 [Scoring ""]
@@ -283,7 +283,7 @@ Alternative
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:AKQ64.AK753.5.KJ 75.986.8763.T832 83.T4.AK94.AQ954 JT92.QJ2.QJT2.76"]
 [Scoring ""]
@@ -348,7 +348,7 @@ You bid 6NT.
 3H =4= Pass 3S =5= Pass
 4C =6= Pass 4D =7= Pass
 4S =8= Pass 5NT =9= Pass
-7H? Pass Pass Pass
+7H Pass Pass Pass
 [Note "1:5+\Hs, GF"]
 [Note "2:6+ spades"]
 [Note "3:6+\Hs"]
@@ -400,7 +400,7 @@ North bids 7\H.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:K852.KQJT763..AK JT4.4.QJT75.Q962 Q73.A5.AK984.754 A96.982.632.JT83"]
 [Scoring ""]
@@ -511,7 +511,7 @@ North bids 4\H showing nat slam try.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:Q.AQ.QT7.AKQ9743 KT98.KT73.963.62 A7632.9862.AK.JT J54.J54.J8542.85"]
 [Scoring ""]
@@ -645,7 +645,7 @@ I’ve never discussed this auction, because the 4\C bid showing 16+ HCP is exce
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:9.Q6.AQ743.AKT84 5432.T9873.T9.93 KJ87.AK54.2.J762 AQT6.J2.KJ865.Q5"]
 [Scoring ""]
@@ -761,7 +761,7 @@ You bid 4\S asking maybe?.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:AKQ2.532.A87.A76 5.9764.Q93.T8542 T943.AQT8.KT42.9 J876.KJ.J65.KQJ3"]
 [Scoring ""]
@@ -862,7 +862,7 @@ I’d expect W to raise to 3\H instead of passing, in which case I don’t think
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:K82.AK85.AKQT4.6 JT9754.T6.9.J942 6.QJ72.J762.KQT3 AQ3.943.853.A875"]
 [Scoring ""]
@@ -872,9 +872,7 @@ I’d expect W to raise to 3\H instead of passing, in which case I don’t think
 [Auction "S"]
 1C Pass 2H =1= Pass
 2S =2= Pass 2NT =3= Pass
-4D relay to 4H
-Pass 4H Pass Pass
-Pass
+4D Pass Pass Pass
 [Note "1:1-4-4-4, GF"]
 [Note "2:waiting"]
 [Note "3:8-10 HCP"]
@@ -920,7 +918,7 @@ You bid 4\D.
 1C Pass 1H =1= Pass
 2C =2= Pass 3C =3= Pass
 3NT =4= Pass 4D =5= Pass
-4NT/5D =6= Pass Pass Pass
+Pass Pass
 [Note "1:5+\Ss, GF"]
 [Note "2:6+\Cs"]
 [Note "3:4-5\Ds"]
@@ -959,7 +957,7 @@ You bid 4\D showing 5\Ds, 5\S, slammish.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:AKJT73.AKT954..T Q84.J32.Q76.J942 652.Q8.A95.AQ863 9.76.KJT8432.K75"]
 [Scoring ""]
@@ -969,10 +967,7 @@ You bid 4\D showing 5\Ds, 5\S, slammish.
 [Auction "S"]
 1C Pass 1NT =1= Pass
 2S =2= Pass 3H =3= Pass
-3S =4= Pass cue bids
-and keycard to come,
-landing in 6S or
-7S Pass Pass Pass
+3S =4= Pass Pass Pass
 [Note "1:5+\Cs, GF"]
 [Note "2:6+\Ss"]
 [Note "3:3+ card spade support or 2 spades w/ honor, nothing else to say regarding shape"]
@@ -1019,7 +1014,7 @@ You bid 3\S, setting the suit.
 1C Pass 2H =1= Pass
 2S =2= Pass 3D =3= Pass
 4C =4= Pass 4D =5= Pass
-4NT =6= Pass P? =7= Pass
+4NT =6= Pass Pass =7= Pass
 Pass Pass
 [Note "1:1-4-4-4, 8+ HCP - I’d vote for this even with the stiff A\S"]
 [Note "2:waiting"]
@@ -1064,7 +1059,7 @@ You pass showing 4\C and beyond is a bit speculative here, not sure how it would
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:K873.KQ2.AK42.Q4 42.J8.Q976.T8753 AJ65.A543.3.AJ92 QT9.T976.JT85.K6"]
 [Scoring ""]
@@ -1074,8 +1069,7 @@ You pass showing 4\C and beyond is a bit speculative here, not sure how it would
 [Auction "S"]
 1C Pass 3C =1= Pass
 3D =2= Pass 3NT =3= Pass
-4NT? =4= Pass etc. Pass
-Pass Pass
+4NT =4= Pass Pass Pass
 [Note "1:4-4-1-4, 8+ HCP"]
 [Note "2:waiting"]
 [Note "3:14-15 HCP"]
@@ -1162,7 +1156,7 @@ North bids 3NT.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:AQ94.AQJ76.QJ.K7 53.982.A.AQ96432 87.KT53.7643.J85 KJT62.4.KT9852.T"]
 [Scoring ""]
@@ -1224,7 +1218,7 @@ You bid 4\H.
 4D =6= Pass 4H =7= Pass
 4NT =8= Pass 5C =9= Pass
 5H =10= Pass 6C =11= Pass
-6D =12= Pass 6NT? Pass
+6D =12= Pass 6NT Pass
 Pass Pass
 [Note "1:5+\Ds, GF"]
 [Note "2:waiting"]
@@ -1288,7 +1282,7 @@ Finding 7 may be too hard; requires knowing about Q\S. Maybe N should take contr
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:AT5.J94.AKJT.A98 964.T5.976.QJT74 KQJ3.AKQ6.Q842.5 872.8732.53.K632"]
 [Scoring ""]
@@ -1344,7 +1338,7 @@ You bid 6NT to play, expecting 16 HCP.
 [Auction "N"]
 1C Pass 2C =1= Pass
 2S =2= Pass 3D =3= Pass
-3NT? Pass Pass Pass
+3NT Pass Pass Pass
 [Note "1:5+\Ds, GF"]
 [Note "2:6+\Ss"]
 [Note "3:4\Hs"]
@@ -1378,7 +1372,7 @@ North bids 3NT.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:Q96.AT7.AKQ954.5 72.K982.T83.J982 KJT.QJ643..AQT74 A8543.5.J762.K63"]
 [Scoring ""]
@@ -1476,7 +1470,7 @@ North bids 5\D showing slam invite.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:J63.AKJ8.3.AK753 AT97.Q32.AJ9.T42 KQ85.9754.QT87.J 42.T6.K6542.Q986"]
 [Scoring ""]
@@ -1486,7 +1480,6 @@ North bids 5\D showing slam invite.
 [Auction "S"]
 1C Pass 2NT =1= Pass
 3C =2= Pass 3D =3= Pass
-relay to 4H Pass
 Pass Pass
 [Note "1:4-4-4-1, 8+"]
 [Note "2:waiting"]
@@ -1530,9 +1523,7 @@ North bids 3\D showing 8-10 HCP.
 [Auction "N"]
 1C Pass 2H =1= Pass
 2S =2= Pass 2NT =3= Pass
-either 3NT or relay
-to 4H Pass Pass
-Pass
+Pass Pass
 [Note "1:1-4-4-4, 8+; don’t lie about shape I guess"]
 [Note "2:waiting"]
 [Note "3:8-10 HCP"]
@@ -1564,7 +1555,7 @@ You bid 2NT showing 8-10 HCP.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:AQT3.K2.AKQ652.2 96.J54.JT987.A64 K875.AQT7.4.QJT5 J42.9863.3.K9873"]
 [Scoring ""]
@@ -1574,7 +1565,7 @@ You bid 2NT showing 8-10 HCP.
 [Auction "S"]
 1C Pass 3C =1= Pass
 3D =2= Pass 3S =3= Pass
-etc Pass Pass Pass
+Pass Pass
 [Note "1:4-4-1-4, 8+"]
 [Note "2:waiting"]
 [Note "3:11-13"]
@@ -1616,7 +1607,7 @@ North bids 3\S showing 11-13.
 [Result ""]
 [Auction "N"]
 1C 2H X =1= 4H
-X =2= Pass 4S? Pass
+X =2= Pass 4S Pass
 Pass Pass
 [Note "1:takeout, GF"]
 [Note "2:forcing pass situation"]
@@ -1650,7 +1641,7 @@ You bid 4\S.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "None"]
 [Deal "S:T64.AKJ.43.AKQ53 J.QT9832.AQ9.972 AKQ52..KJT6.T864 9873.7654.8752.J"]
 [Scoring ""]
@@ -1662,8 +1653,7 @@ You bid 4\S.
 1S =2= Pass 2C =3= Pass
 2S =4= Pass 3C =5= Pass
 3S Pass 4D =6= Pass
-4NT etc Pass Pass
-Pass
+4NT Pass Pass Pass
 [Note "1:5+\Ss, GF"]
 [Note "2:waiting"]
 [Note "3:4-5\Ds"]
@@ -1721,8 +1711,7 @@ Without interference
 [Auction "N"]
 1C Pass 2D =1= Pass
 2H =2= Pass 3D =3= Pass
-3S =4= Pass 3NT/4H Pass
-Pass Pass
+3S =4= Pass Pass Pass
 [Note "1:5+\Hs, GF"]
 [Note "2:waiting, no 6-card suit"]
 [Note "3:6+\Hs"]
@@ -1757,7 +1746,7 @@ North bids 3\S showing 5\Ss, probably skeptical of 3NT and 4\H.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:AK82.94.KQ863.A6 T64.QJ5.T4.T9742 3.A872.A752.KQJ8 QJ975.KT63.J9.53"]
 [Scoring ""]
@@ -1856,7 +1845,7 @@ would probably just raise to 3NT instead of 3\C, but I wanted to show the full s
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:AJ52.KQJT4.A.765 QT73..KQT9765.K2 K9.A8765.843.AJ8 864.932.J2.QT943"]
 [Scoring ""]
@@ -1864,7 +1853,7 @@ would probably just raise to 3NT instead of 3\C, but I wanted to show the full s
 [Contract ""]
 [Result ""]
 [Auction "S"]
-1C 3D? 3S =1= Pass
+1C 3D 3S =1= Pass
 4H Pass Pass Pass
 [Note "1:5+\Hs, GF"]
 [Student "S"]
@@ -1941,7 +1930,7 @@ No interference
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "EW"]
 [Deal "S:A8.KQJ52.9.AQ753 J963.87.543.KT92 KQT75.64.AQJ87.4 42.AT93.KT62.J86"]
 [Scoring ""]
@@ -2066,7 +2055,7 @@ North bids 7NT showing since the K\D is known.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "NS"]
 [Deal "S:AKJT974.Q62.A3.J Q53.T3.KT75.T762 86.AK754.Q64.AQ4 2.J98.J982.K9853"]
 [Scoring ""]
@@ -2172,7 +2161,7 @@ North bids 3NT.
 [North ""]
 [East ""]
 [South ""]
-[Dealer "N"]
+[Dealer "S"]
 [Vulnerable "All"]
 [Deal "S:8.AQ43.KJ87.AQT9 96542.T985.A63.7 AQJT..QT95.KJ843 K73.KJ762.42.652"]
 [Scoring ""]
@@ -2248,8 +2237,8 @@ You bid 6\C.
 [Auction "N"]
 1C 1H X =1= Pass
 1S 2D 2S 4D
-4S Pass 4NT =2= etc.
-Pass Pass Pass
+4S Pass 4NT =2= Pass
+Pass Pass
 [Note "1:GF, takeout"]
 [Note "2:keycard"]
 [Student "S"]
