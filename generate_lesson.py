@@ -263,7 +263,8 @@ def format_meaning(meaning):
     return f' showing {meaning}'
 
 
-def generate_south_commentary(bids, notes, board_num, existing_commentary):
+def generate_south_commentary(bids, notes, board_num, existing_commentary,
+                              south_needs_final_pass=False):
     """Generate structured [show S] commentary for a South lesson."""
     lines = []
 
@@ -308,6 +309,12 @@ def generate_south_commentary(bids, notes, board_num, existing_commentary):
                     lines.append(f'{name} redoubles.')
                 else:
                     lines.append(f'{name} bids {display}.')
+
+    # Add final pass prompt if South needs to pass to close the auction
+    if south_needs_final_pass:
+        lines.append('What will you bid now? [BID pass]')
+        lines.append('You pass.')
+        lines.append('')
 
     # Build commentary block
     body = '\n'.join(lines).strip()
@@ -392,10 +399,20 @@ def write_lesson_pbn(boards, output_path, event_name, skill_path,
             f.write(f'[SkillPath "{skill_path}"]\n')
 
             # Generate and write commentary
+            # Check if South has a trailing pass before trimming
+            full_bid_count = len(bids)
             bids = trim_trailing_passes(bids)
+            trimmed_count = len(bids)
+            seats = ['N', 'E', 'S', 'W']
+            dealer_idx = seats.index(dealer)
+            south_needs_final_pass = any(
+                seats[(dealer_idx + i) % 4] == 'S'
+                for i in range(trimmed_count, full_bid_count)
+            )
 
             commentary = generate_south_commentary(
-                bids, board['notes'], board_num, board['commentary']
+                bids, board['notes'], board_num, board['commentary'],
+                south_needs_final_pass=south_needs_final_pass
             )
             f.write(commentary + '\n')
             f.write('\n')
